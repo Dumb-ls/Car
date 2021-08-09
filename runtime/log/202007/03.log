@@ -1,0 +1,33 @@
+---------------------------------------------------------------
+[ 2020-07-03T11:06:34+08:00 ] 127.0.0.1 GET car.ls/a.php/index/index
+[运行时间：5.903562s] [吞吐率：0.17req/s] [内存消耗：4,663.80kb] [文件加载：136]
+[ error ] [2002]SQLSTATE[HY000] [2002] ����Ŀ�����������ܾ����޷����ӡ�
+[F:\WebWork\car\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2020-07-03T14:34:12+08:00 ] 127.0.0.1 POST car.ls/index.php/api/wechat/firstBind
+[运行时间：0.336658s] [吞吐率：2.97req/s] [内存消耗：4,650.81kb] [文件加载：138]
+[ error ] [8]未定义数组索引: compuser[F:\WebWork\car\application\api\controller\Wechat.php:36]
+---------------------------------------------------------------
+[ 2020-07-03T15:36:54+08:00 ] 127.0.0.1 GET car.ls/a.php/general/logs/index?file_paths=\202007\03.log&sort=id&order=desc&filter=%7B%7D&op=%7B%7D&_=1593761813857
+[运行时间：0.182829s] [吞吐率：5.47req/s] [内存消耗：5,284.25kb] [文件加载：141]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[F:\WebWork\car\thinkphp\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2020-07-03T15:37:03+08:00 ] 127.0.0.1 GET car.ls/a.php/general/logs/index?file_paths=\202007\03.log&sort=id&order=desc&filter=%7B%7D&op=%7B%7D&_=1593761813859
+[运行时间：0.184686s] [吞吐率：5.41req/s] [内存消耗：5,284.25kb] [文件加载：141]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[F:\WebWork\car\thinkphp\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2020-07-03T15:44:58+08:00 ] 127.0.0.1 GET car.ls/a.php/general/logs/index?file_paths=\202007\03.log&sort=id&order=desc&filter=%7B%7D&op=%7B%7D&_=1593761813860
+[运行时间：0.358331s] [吞吐率：2.79req/s] [内存消耗：5,284.25kb] [文件加载：141]
+[ error ] [0]Malformed UTF-8 characters, possibly incorrectly encoded[F:\WebWork\car\thinkphp\library\think\response\Json.php:39]
+---------------------------------------------------------------
+[ 2020-07-03T22:45:54+08:00 ] 127.0.0.1 POST car.ls/index.php/api/card/getOptional
+[运行时间：0.348699s] [吞吐率：2.87req/s] [内存消耗：3,044.39kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected ';'[F:\WebWork\car\application\api\controller\Card.php:111]
+---------------------------------------------------------------
+[ 2020-07-03T22:46:04+08:00 ] 127.0.0.1 POST car.ls/index.php/api/card/getOptional
+[运行时间：0.224616s] [吞吐率：4.45req/s] [内存消耗：4,658.33kb] [文件加载：138]
+[ error ] [8]未定义数组索引: comp_id[F:\WebWork\car\application\api\controller\Card.php:114]
+---------------------------------------------------------------
+[ 2020-07-03T22:47:09+08:00 ] 127.0.0.1 POST car.ls/index.php/api/card/getOptional
+[运行时间：0.171918s] [吞吐率：5.82req/s] [内存消耗：3,817.52kb] [文件加载：131]
+[ error ] [0]致命错误: Call to undefined method app\api\controller\Validate::batch()[F:\WebWork\car\application\api\controller\Card.php:109]

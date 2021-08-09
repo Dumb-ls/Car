@@ -1,0 +1,228 @@
+---------------------------------------------------------------
+[ 2020-07-07T14:38:37+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：1.511710s] [吞吐率：0.66req/s] [内存消耗：5,388.95kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T15:35:11+08:00 ] 127.0.0.1 POST car.ls/a.php/auth/admin/add?dialog=1
+[运行时间：0.995002s] [吞吐率：1.01req/s] [内存消耗：5,512.86kb] [文件加载：149]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'comp_id' doesn't have a default value[F:\WebWork\car\thinkphp\library\think\db\Connection.php:453]
+---------------------------------------------------------------
+[ 2020-07-07T15:36:23+08:00 ] 127.0.0.1 POST car.ls/a.php/auth/admin/add?dialog=1
+[运行时间：0.875714s] [吞吐率：1.14req/s] [内存消耗：5,512.86kb] [文件加载：149]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'comp_id' doesn't have a default value[F:\WebWork\car\thinkphp\library\think\db\Connection.php:453]
+---------------------------------------------------------------
+[ 2020-07-07T15:37:40+08:00 ] 127.0.0.1 POST car.ls/a.php/auth/admin/add?dialog=1
+[运行时间：0.814715s] [吞吐率：1.23req/s] [内存消耗：5,512.86kb] [文件加载：149]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'comp_id' doesn't have a default value[F:\WebWork\car\thinkphp\library\think\db\Connection.php:453]
+---------------------------------------------------------------
+[ 2020-07-07T19:18:38+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.187580s] [吞吐率：5.33req/s] [内存消耗：5,290.59kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T19:18:39+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.213858s] [吞吐率：4.68req/s] [内存消耗：5,295.95kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T19:18:40+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.180188s] [吞吐率：5.55req/s] [内存消耗：5,295.95kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T19:18:41+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.170568s] [吞吐率：5.86req/s] [内存消耗：5,295.95kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T19:18:41+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.168257s] [吞吐率：5.94req/s] [内存消耗：5,295.95kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T19:18:41+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.158259s] [吞吐率：6.32req/s] [内存消耗：5,295.95kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T19:18:41+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.173067s] [吞吐率：5.78req/s] [内存消耗：5,295.95kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T19:18:42+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.157725s] [吞吐率：6.34req/s] [内存消耗：5,295.95kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T19:18:42+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.171313s] [吞吐率：5.84req/s] [内存消耗：5,295.95kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T19:18:42+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.157938s] [吞吐率：6.33req/s] [内存消耗：5,295.95kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T19:18:43+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.153025s] [吞吐率：6.53req/s] [内存消耗：5,295.95kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T19:26:27+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/add?dialog=1
+[运行时间：0.242676s] [吞吐率：4.12req/s] [内存消耗：5,322.68kb] [文件加载：143]
+[ error ] [8]未定义数组索引: username[F:\WebWork\car\application\admin\controller\Comp.php:114]
+---------------------------------------------------------------
+[ 2020-07-07T19:26:40+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/add?dialog=1
+[运行时间：0.241923s] [吞吐率：4.13req/s] [内存消耗：5,322.68kb] [文件加载：143]
+[ error ] [8]未定义数组索引: username[F:\WebWork\car\application\admin\controller\Comp.php:114]
+---------------------------------------------------------------
+[ 2020-07-07T19:44:09+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/add?dialog=1
+[运行时间：0.225434s] [吞吐率：4.44req/s] [内存消耗：5,322.68kb] [文件加载：143]
+[ error ] [8]未定义数组索引: username[F:\WebWork\car\application\admin\controller\Comp.php:114]
+---------------------------------------------------------------
+[ 2020-07-07T19:49:50+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/add?dialog=1
+[运行时间：0.248640s] [吞吐率：4.02req/s] [内存消耗：5,322.73kb] [文件加载：143]
+[ error ] [8]未定义数组索引: username[F:\WebWork\car\application\admin\controller\Comp.php:114]
+---------------------------------------------------------------
+[ 2020-07-07T20:45:46+08:00 ] 127.0.0.1 GET car.ls/a.php/dept?addtabs=1
+[运行时间：0.266551s] [吞吐率：3.75req/s] [内存消耗：3,165.76kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected '('[F:\WebWork\car\application\admin\controller\Dept.php:57]
+---------------------------------------------------------------
+[ 2020-07-07T20:49:38+08:00 ] 127.0.0.1 GET car.ls/a.php/dept/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594126178206
+[运行时间：0.178585s] [吞吐率：5.60req/s] [内存消耗：5,195.01kb] [文件加载：142]
+[ error ] [0]致命错误: Cannot use object of type Closure as array[F:\WebWork\car\application\admin\controller\Dept.php:57]
+---------------------------------------------------------------
+[ 2020-07-07T20:49:52+08:00 ] 127.0.0.1 GET car.ls/a.php/dept/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594126178207
+[运行时间：0.390175s] [吞吐率：2.56req/s] [内存消耗：5,195.97kb] [文件加载：143]
+[ error ] [8]未定义变量: compid[F:\WebWork\car\application\admin\controller\Dept.php:57]
+---------------------------------------------------------------
+[ 2020-07-07T20:49:56+08:00 ] 127.0.0.1 GET car.ls/a.php/dept/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594126196086
+[运行时间：0.161933s] [吞吐率：6.18req/s] [内存消耗：5,195.97kb] [文件加载：143]
+[ error ] [8]未定义变量: compid[F:\WebWork\car\application\admin\controller\Dept.php:57]
+---------------------------------------------------------------
+[ 2020-07-07T20:52:02+08:00 ] 127.0.0.1 GET car.ls/a.php/dept/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594126321727
+[运行时间：0.169582s] [吞吐率：5.90req/s] [内存消耗：5,301.50kb] [文件加载：147]
+[ error ] [8]未定义变量: sort[F:\WebWork\car\application\admin\controller\Dept.php:62]
+---------------------------------------------------------------
+[ 2020-07-07T20:56:06+08:00 ] 127.0.0.1 GET car.ls/a.php/dept?addtabs=1
+[运行时间：0.200547s] [吞吐率：4.99req/s] [内存消耗：5,194.88kb] [文件加载：142]
+[ error ] [0]致命错误: Cannot use object of type Closure as array[F:\WebWork\car\application\admin\controller\Dept.php:56]
+---------------------------------------------------------------
+[ 2020-07-07T20:57:02+08:00 ] 127.0.0.1 GET car.ls/a.php/dept?addtabs=1
+[运行时间：0.212895s] [吞吐率：4.70req/s] [内存消耗：5,194.88kb] [文件加载：142]
+[ error ] [0]致命错误: Cannot use object of type Closure as array[F:\WebWork\car\application\admin\controller\Dept.php:56]
+---------------------------------------------------------------
+[ 2020-07-07T20:57:53+08:00 ] 127.0.0.1 GET car.ls/a.php/dept?addtabs=1
+[运行时间：0.336779s] [吞吐率：2.97req/s] [内存消耗：5,196.08kb] [文件加载：143]
+[ error ] [2]json_decode() expects parameter 1 to be string, object given[F:\WebWork\car\application\admin\controller\Dept.php:56]
+---------------------------------------------------------------
+[ 2020-07-07T20:58:06+08:00 ] 127.0.0.1 GET car.ls/a.php/dept?addtabs=1
+[运行时间：0.144696s] [吞吐率：6.91req/s] [内存消耗：5,196.08kb] [文件加载：143]
+[ error ] [2]json_decode() expects parameter 1 to be string, object given[F:\WebWork\car\application\admin\controller\Dept.php:56]
+---------------------------------------------------------------
+[ 2020-07-07T21:03:51+08:00 ] 127.0.0.1 GET car.ls/a.php/dept?addtabs=1
+[运行时间：0.248442s] [吞吐率：4.03req/s] [内存消耗：5,196.09kb] [文件加载：143]
+[ error ] [2]json_decode() expects parameter 1 to be string, object given[F:\WebWork\car\application\admin\controller\Dept.php:57]
+---------------------------------------------------------------
+[ 2020-07-07T21:06:02+08:00 ] 127.0.0.1 GET car.ls/a.php/dept?addtabs=1
+[运行时间：0.222913s] [吞吐率：4.49req/s] [内存消耗：5,196.09kb] [文件加载：143]
+[ error ] [2]json_decode() expects parameter 1 to be string, array given[F:\WebWork\car\application\admin\controller\Dept.php:57]
+---------------------------------------------------------------
+[ 2020-07-07T21:13:39+08:00 ] 127.0.0.1 GET car.ls/a.php/dept/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594127619133
+[运行时间：0.202923s] [吞吐率：4.93req/s] [内存消耗：5,299.35kb] [文件加载：147]
+[ error ] [8]未定义变量: w[F:\WebWork\car\application\admin\controller\Dept.php:59]
+---------------------------------------------------------------
+[ 2020-07-07T21:31:20+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.263998s] [吞吐率：3.79req/s] [内存消耗：5,235.01kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T21:31:24+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.231712s] [吞吐率：4.32req/s] [内存消耗：5,235.01kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T21:32:33+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.510221s] [吞吐率：1.96req/s] [内存消耗：5,352.23kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T21:32:36+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.189994s] [吞吐率：5.26req/s] [内存消耗：5,235.01kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T21:33:20+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.220237s] [吞吐率：4.54req/s] [内存消耗：5,235.01kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T21:38:04+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/otherIndex
+[运行时间：0.334069s] [吞吐率：2.99req/s] [内存消耗：5,239.20kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T21:38:42+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/otherIndex
+[运行时间：0.355985s] [吞吐率：2.81req/s] [内存消耗：5,356.43kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T21:38:44+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/otherIndex
+[运行时间：0.190620s] [吞吐率：5.25req/s] [内存消耗：5,239.21kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deptname' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T21:38:45+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/otherIndex
+[运行时间：0.182102s] [吞吐率：5.49req/s] [内存消耗：5,239.21kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deptname' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T21:41:49+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/otherIndex
+[运行时间：0.224211s] [吞吐率：4.46req/s] [内存消耗：5,239.21kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deptname' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T21:42:29+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/otherIndex
+[运行时间：0.406002s] [吞吐率：2.46req/s] [内存消耗：5,356.45kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deptname' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T22:34:25+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/get_type_list
+[运行时间：0.363553s] [吞吐率：2.75req/s] [内存消耗：5,237.61kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'comp_id' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T22:34:27+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/get_type_list
+[运行时间：0.190266s] [吞吐率：5.26req/s] [内存消耗：5,237.61kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'comp_id' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T22:34:45+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/get_type_list
+[运行时间：0.174845s] [吞吐率：5.72req/s] [内存消耗：5,237.61kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'comp_id' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T22:38:34+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/get_type_list
+[运行时间：0.231491s] [吞吐率：4.32req/s] [内存消耗：5,237.61kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'comp_id' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T22:38:38+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/get_type_list
+[运行时间：0.229794s] [吞吐率：4.35req/s] [内存消耗：5,237.61kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'comp_id' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T22:53:07+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/get_type_list
+[运行时间：0.251399s] [吞吐率：3.98req/s] [内存消耗：5,210.32kb] [文件加载：143]
+[ error ] [8]未定义数组索引: compname[F:\WebWork\car\application\admin\controller\Comp.php:135]
+---------------------------------------------------------------
+[ 2020-07-07T22:53:36+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/get_type_list
+[运行时间：0.227629s] [吞吐率：4.39req/s] [内存消耗：5,209.34kb] [文件加载：143]
+[ error ] [8]未定义数组索引: compname[F:\WebWork\car\application\admin\controller\Comp.php:135]
+---------------------------------------------------------------
+[ 2020-07-07T22:54:03+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/get_type_list
+[运行时间：0.205120s] [吞吐率：4.88req/s] [内存消耗：5,209.40kb] [文件加载：143]
+[ error ] [8]未定义数组索引: compname[F:\WebWork\car\application\admin\controller\Comp.php:135]
+---------------------------------------------------------------
+[ 2020-07-07T23:14:51+08:00 ] 127.0.0.1 POST car.ls/a.php/dept/get_type_list
+[运行时间：0.253955s] [吞吐率：3.94req/s] [内存消耗：5,315.06kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'compname' in 'field list'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T23:15:10+08:00 ] 127.0.0.1 POST car.ls/a.php/dept/get_type_list
+[运行时间：0.216983s] [吞吐率：4.61req/s] [内存消耗：5,315.06kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'compname' in 'field list'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-07T23:29:39+08:00 ] 127.0.0.1 GET car.ls/a.php/auth/admin/edit/ids/5?dialog=1
+[运行时间：0.147310s] [吞吐率：6.79req/s] [内存消耗：5,685.96kb] [文件加载：147]
+[ error ] [0]类的属性不存在:app\admin\model\Admin->compname[F:\WebWork\car\thinkphp\library\think\Model.php:626]
+---------------------------------------------------------------
+[ 2020-07-07T23:32:12+08:00 ] 127.0.0.1 GET car.ls/a.php/auth/admin/edit/ids/5?dialog=1
+[运行时间：0.140871s] [吞吐率：7.10req/s] [内存消耗：5,435.64kb] [文件加载：146]
+[ error ] [8]未定义变量: result[F:\WebWork\car\application\admin\controller\auth\Admin.php:158]
+---------------------------------------------------------------
+[ 2020-07-07T23:53:27+08:00 ] 127.0.0.1 GET car.ls/a.php/auth/admin/edit/ids/5?dialog=1
+[运行时间：0.169269s] [吞吐率：5.91req/s] [内存消耗：5,693.60kb] [文件加载：149]
+[ error ] [8]未定义变量: rows[F:\WebWork\car\runtime\temp\6a470558fd325766e7440e3bdde6ca3b.php:75]
+---------------------------------------------------------------
+[ 2020-07-07T23:54:03+08:00 ] 127.0.0.1 GET car.ls/a.php/auth/admin/edit/ids/5?dialog=1
+[运行时间：0.114639s] [吞吐率：8.72req/s] [内存消耗：5,511.52kb] [文件加载：147]
+[ error ] [8]未定义变量: rows[F:\WebWork\car\runtime\temp\6a470558fd325766e7440e3bdde6ca3b.php:75]
+---------------------------------------------------------------
+[ 2020-07-07T23:54:59+08:00 ] 127.0.0.1 GET car.ls/a.php/auth/admin/edit/ids/5?dialog=1
+[运行时间：0.170492s] [吞吐率：5.87req/s] [内存消耗：5,685.91kb] [文件加载：147]
+[ error ] [0]类的属性不存在:app\admin\model\Admin->name[F:\WebWork\car\thinkphp\library\think\Model.php:626]

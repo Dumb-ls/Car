@@ -1,0 +1,364 @@
+---------------------------------------------------------------
+[ 2020-07-11T11:10:54+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/writeLog
+[运行时间：0.289806s] [吞吐率：3.45req/s] [内存消耗：3,879.26kb] [文件加载：132]
+[ error ] [0]类型错误: Argument 1 passed to app\api\controller\Cardlog::upload() must be an instance of think\File, null given, called in F:\WebWork\car\application\api\controller\Cardlog.php on line 52[F:\WebWork\car\application\api\controller\Cardlog.php:179]
+---------------------------------------------------------------
+[ 2020-07-11T11:11:17+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/writeLog
+[运行时间：0.110237s] [吞吐率：9.07req/s] [内存消耗：3,878.91kb] [文件加载：132]
+[ error ] [0]致命错误: Call to a member function move() on null[F:\WebWork\car\application\api\controller\Cardlog.php:183]
+---------------------------------------------------------------
+[ 2020-07-11T11:11:30+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/writeLog
+[运行时间：0.127819s] [吞吐率：7.82req/s] [内存消耗：3,878.91kb] [文件加载：132]
+[ error ] [0]致命错误: Call to a member function move() on null[F:\WebWork\car\application\api\controller\Cardlog.php:183]
+---------------------------------------------------------------
+[ 2020-07-11T11:11:41+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/writeLog
+[运行时间：0.161711s] [吞吐率：6.18req/s] [内存消耗：3,879.98kb] [文件加载：133]
+[ error ] [8]未定义数组索引: logdt[F:\WebWork\car\application\api\controller\Cardlog.php:53]
+---------------------------------------------------------------
+[ 2020-07-11T11:13:23+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/writeLog
+[运行时间：0.311823s] [吞吐率：3.21req/s] [内存消耗：4,803.80kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'logswitch' doesn't have a default value[F:\WebWork\car\thinkphp\library\think\db\Connection.php:453]
+---------------------------------------------------------------
+[ 2020-07-11T11:13:39+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/writeLog
+[运行时间：0.153262s] [吞吐率：6.52req/s] [内存消耗：4,803.80kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'logswitch' doesn't have a default value[F:\WebWork\car\thinkphp\library\think\db\Connection.php:453]
+---------------------------------------------------------------
+[ 2020-07-11T11:56:56+08:00 ] 127.0.0.1 GET car.ls/a.php/report/edit/ids/1?dialog=1
+[运行时间：0.098107s] [吞吐率：10.19req/s] [内存消耗：3,165.88kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected ','[F:\WebWork\car\application\admin\controller\Report.php:63]
+---------------------------------------------------------------
+[ 2020-07-11T11:57:55+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.218045s] [吞吐率：4.59req/s] [内存消耗：5,323.55kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-11T11:58:04+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.210108s] [吞吐率：4.76req/s] [内存消耗：5,323.55kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-11T12:13:15+08:00 ] 127.0.0.1 GET car.ls/a.php/report/sum/ids/1?dialog=1
+[运行时间：0.257475s] [吞吐率：3.88req/s] [内存消耗：5,303.19kb] [文件加载：142]
+[ error ] [0]模板文件不存在:F:\WebWork\car\public/../application/admin\view\report\sum.html[F:\WebWork\car\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2020-07-11T12:14:21+08:00 ] 127.0.0.1 GET car.ls/a.php/report/sum/ids/1?dialog=1
+[运行时间：0.246721s] [吞吐率：4.05req/s] [内存消耗：5,303.24kb] [文件加载：142]
+[ error ] [0]模板文件不存在:F:\WebWork\car\public/../application/admin\view\report\sum.html[F:\WebWork\car\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2020-07-11T12:14:28+08:00 ] 127.0.0.1 GET car.ls/a.php/report/sum/ids/1?dialog=1
+[运行时间：0.152033s] [吞吐率：6.58req/s] [内存消耗：5,303.24kb] [文件加载：142]
+[ error ] [0]模板文件不存在:F:\WebWork\car\public/../application/admin\view\report\sum.html[F:\WebWork\car\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2020-07-11T12:14:35+08:00 ] 127.0.0.1 GET car.ls/a.php/report/sum/ids/1?dialog=1
+[运行时间：0.193509s] [吞吐率：5.17req/s] [内存消耗：5,303.24kb] [文件加载：142]
+[ error ] [0]模板文件不存在:F:\WebWork\car\public/../application/admin\view\report\sum.html[F:\WebWork\car\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2020-07-11T12:15:14+08:00 ] 127.0.0.1 GET car.ls/a.php/report/sum/ids/1?dialog=1
+[运行时间：0.171776s] [吞吐率：5.82req/s] [内存消耗：5,303.24kb] [文件加载：142]
+[ error ] [0]模板文件不存在:F:\WebWork\car\public/../application/admin\view\report\sum.html[F:\WebWork\car\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2020-07-11T12:15:19+08:00 ] 127.0.0.1 GET car.ls/a.php/report/sum/ids/1?dialog=1
+[运行时间：0.147873s] [吞吐率：6.76req/s] [内存消耗：5,303.24kb] [文件加载：142]
+[ error ] [0]模板文件不存在:F:\WebWork\car\public/../application/admin\view\report\sum.html[F:\WebWork\car\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2020-07-11T12:20:04+08:00 ] 127.0.0.1 GET car.ls/a.php/report/edit/ids/1?dialog=1
+[运行时间：0.173204s] [吞吐率：5.77req/s] [内存消耗：5,472.09kb] [文件加载：144]
+[ error ] [0]类的属性不存在:app\admin\model\Report->cardtime[F:\WebWork\car\thinkphp\library\think\Model.php:626]
+---------------------------------------------------------------
+[ 2020-07-11T12:20:19+08:00 ] 127.0.0.1 GET car.ls/a.php/report/edit/ids/1?dialog=1
+[运行时间：0.168332s] [吞吐率：5.94req/s] [内存消耗：5,289.40kb] [文件加载：142]
+[ error ] [0]类的属性不存在:app\admin\model\Report->cardtime[F:\WebWork\car\thinkphp\library\think\Model.php:626]
+---------------------------------------------------------------
+[ 2020-07-11T12:20:38+08:00 ] 127.0.0.1 GET car.ls/a.php/report/edit/ids/1?dialog=1
+[运行时间：0.182486s] [吞吐率：5.48req/s] [内存消耗：5,471.73kb] [文件加载：144]
+[ error ] [0]类的属性不存在:app\admin\model\Report->cardtime[F:\WebWork\car\thinkphp\library\think\Model.php:626]
+---------------------------------------------------------------
+[ 2020-07-11T12:21:09+08:00 ] 127.0.0.1 GET car.ls/a.php/report/edit/ids/1?dialog=1
+[运行时间：0.245593s] [吞吐率：4.07req/s] [内存消耗：5,472.18kb] [文件加载：144]
+[ error ] [0]类的属性不存在:app\admin\model\Report->cardtime[F:\WebWork\car\thinkphp\library\think\Model.php:626]
+---------------------------------------------------------------
+[ 2020-07-11T12:42:28+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.258756s] [吞吐率：3.86req/s] [内存消耗：5,307.14kb] [文件加载：142]
+[ error ] [0]类型错误: Too few arguments to function app\admin\controller\Report::msg(), 0 passed in F:\WebWork\car\application\admin\controller\Report.php on line 59 and exactly 2 expected[F:\WebWork\car\application\admin\controller\Report.php:84]
+---------------------------------------------------------------
+[ 2020-07-11T12:44:18+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.159577s] [吞吐率：6.27req/s] [内存消耗：5,307.14kb] [文件加载：142]
+[ error ] [0]类型错误: Too few arguments to function app\admin\controller\Report::msg(), 0 passed in F:\WebWork\car\application\admin\controller\Report.php on line 59 and exactly 2 expected[F:\WebWork\car\application\admin\controller\Report.php:84]
+---------------------------------------------------------------
+[ 2020-07-11T12:46:00+08:00 ] 127.0.0.1 GET car.ls/a.php/report/sum?dialog=1
+[运行时间：0.158161s] [吞吐率：6.32req/s] [内存消耗：5,303.16kb] [文件加载：142]
+[ error ] [0]模板文件不存在:F:\WebWork\car\public/../application/admin\view\report\sum.html[F:\WebWork\car\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2020-07-11T12:46:34+08:00 ] 127.0.0.1 GET car.ls/a.php/report/sum?dialog=1
+[运行时间：0.171157s] [吞吐率：5.84req/s] [内存消耗：5,303.16kb] [文件加载：142]
+[ error ] [0]模板文件不存在:F:\WebWork\car\public/../application/admin\view\report\sum.html[F:\WebWork\car\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2020-07-11T12:46:38+08:00 ] 127.0.0.1 GET car.ls/a.php/report/sum?dialog=1
+[运行时间：0.166136s] [吞吐率：6.02req/s] [内存消耗：5,303.16kb] [文件加载：142]
+[ error ] [0]模板文件不存在:F:\WebWork\car\public/../application/admin\view\report\sum.html[F:\WebWork\car\thinkphp\library\think\view\driver\Think.php:82]
+---------------------------------------------------------------
+[ 2020-07-11T12:48:38+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.165931s] [吞吐率：6.03req/s] [内存消耗：5,307.14kb] [文件加载：142]
+[ error ] [0]类型错误: Too few arguments to function app\admin\controller\Report::msg(), 0 passed in F:\WebWork\car\application\admin\controller\Report.php on line 59 and exactly 2 expected[F:\WebWork\car\application\admin\controller\Report.php:84]
+---------------------------------------------------------------
+[ 2020-07-11T14:57:19+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.252480s] [吞吐率：3.96req/s] [内存消耗：5,298.36kb] [文件加载：143]
+[ error ] [8]未定义数组索引: comp_id[F:\WebWork\car\application\admin\controller\Report.php:103]
+---------------------------------------------------------------
+[ 2020-07-11T14:58:10+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.248498s] [吞吐率：4.02req/s] [内存消耗：5,298.36kb] [文件加载：143]
+[ error ] [8]未定义数组索引: repname[F:\WebWork\car\application\admin\controller\Report.php:104]
+---------------------------------------------------------------
+[ 2020-07-11T14:59:48+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.229307s] [吞吐率：4.36req/s] [内存消耗：5,298.36kb] [文件加载：143]
+[ error ] [8]未定义数组索引: comp_id[F:\WebWork\car\application\admin\controller\Report.php:105]
+---------------------------------------------------------------
+[ 2020-07-11T15:01:15+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.311297s] [吞吐率：3.21req/s] [内存消耗：5,278.99kb] [文件加载：143]
+[ error ] [2]strpos() expects parameter 1 to be string, array given[F:\WebWork\car\thinkphp\library\traits\controller\Jump.php:41]
+---------------------------------------------------------------
+[ 2020-07-11T15:01:31+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.350063s] [吞吐率：2.86req/s] [内存消耗：5,279.02kb] [文件加载：143]
+[ error ] [2]strpos() expects parameter 1 to be string, array given[F:\WebWork\car\thinkphp\library\traits\controller\Jump.php:41]
+---------------------------------------------------------------
+[ 2020-07-11T15:06:12+08:00 ] 127.0.0.1 GET car.ls/a.php/report/add?dialog=1
+[运行时间：0.314621s] [吞吐率：3.18req/s] [内存消耗：5,298.93kb] [文件加载：143]
+[ error ] [8]未定义数组索引: row[F:\WebWork\car\application\admin\controller\Report.php:41]
+---------------------------------------------------------------
+[ 2020-07-11T15:06:37+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.240827s] [吞吐率：4.15req/s] [内存消耗：5,298.91kb] [文件加载：143]
+[ error ] [8]未定义数组索引: repname[F:\WebWork\car\application\admin\controller\Report.php:105]
+---------------------------------------------------------------
+[ 2020-07-11T15:07:45+08:00 ] 127.0.0.1 GET car.ls/a.php/report/add?dialog=1
+[运行时间：0.283751s] [吞吐率：3.52req/s] [内存消耗：5,298.97kb] [文件加载：143]
+[ error ] [8]未定义数组索引: row[F:\WebWork\car\application\admin\controller\Report.php:42]
+---------------------------------------------------------------
+[ 2020-07-11T15:07:59+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.199846s] [吞吐率：5.00req/s] [内存消耗：5,298.93kb] [文件加载：143]
+[ error ] [8]未定义数组下标: 1[F:\WebWork\car\application\admin\controller\Report.php:42]
+---------------------------------------------------------------
+[ 2020-07-11T15:09:23+08:00 ] 127.0.0.1 GET car.ls/a.php/report/add?dialog=1
+[运行时间：0.254435s] [吞吐率：3.93req/s] [内存消耗：5,298.93kb] [文件加载：143]
+[ error ] [8]未定义数组索引: row[F:\WebWork\car\application\admin\controller\Report.php:43]
+---------------------------------------------------------------
+[ 2020-07-11T15:11:59+08:00 ] 127.0.0.1 GET car.ls/a.php/report/add?dialog=1
+[运行时间：0.281863s] [吞吐率：3.55req/s] [内存消耗：5,300.03kb] [文件加载：143]
+[ error ] [8]未定义数组索引: row[F:\WebWork\car\application\admin\controller\Report.php:43]
+---------------------------------------------------------------
+[ 2020-07-11T15:12:27+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.279863s] [吞吐率：3.57req/s] [内存消耗：3,165.72kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected 'die' (T_EXIT)[F:\WebWork\car\application\admin\controller\Report.php:122]
+---------------------------------------------------------------
+[ 2020-07-11T16:45:06+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.846106s] [吞吐率：1.18req/s] [内存消耗：5,300.27kb] [文件加载：143]
+[ error ] [8]未定义数组索引: reptname[F:\WebWork\car\application\admin\controller\Report.php:72]
+---------------------------------------------------------------
+[ 2020-07-11T16:45:19+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.706198s] [吞吐率：1.42req/s] [内存消耗：8,364.05kb] [文件加载：182]
+[ error ] [0]File "F:\WebWork\car\application\admin\controller/muban/test.xls" does not exist.[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Shared\File.php:137]
+---------------------------------------------------------------
+[ 2020-07-11T16:45:49+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.358024s] [吞吐率：2.79req/s] [内存消耗：8,488.16kb] [文件加载：184]
+[ error ] [8]未定义数组下标: 0[F:\WebWork\car\application\admin\controller\Report.php:226]
+---------------------------------------------------------------
+[ 2020-07-11T16:46:06+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.373734s] [吞吐率：2.68req/s] [内存消耗：8,482.59kb] [文件加载：184]
+[ error ] [8]未定义数组下标: 0[F:\WebWork\car\application\admin\controller\Report.php:226]
+---------------------------------------------------------------
+[ 2020-07-11T16:47:16+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.538774s] [吞吐率：1.86req/s] [内存消耗：8,966.41kb] [文件加载：189]
+[ error ] [8]未定义数组索引: rows[F:\WebWork\car\application\admin\controller\Report.php:242]
+---------------------------------------------------------------
+[ 2020-07-11T16:57:12+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.532346s] [吞吐率：1.88req/s] [内存消耗：9,856.70kb] [文件加载：202]
+[ error ] [0]致命错误: Call to undefined function app\admin\controller\excelBrowserExport()[F:\WebWork\car\application\admin\controller\Report.php:249]
+---------------------------------------------------------------
+[ 2020-07-11T16:59:19+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.392363s] [吞吐率：2.55req/s] [内存消耗：9,856.55kb] [文件加载：202]
+[ error ] [0]致命错误: Call to undefined function app\admin\controller\export()[F:\WebWork\car\application\admin\controller\Report.php:249]
+---------------------------------------------------------------
+[ 2020-07-11T16:59:48+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.419237s] [吞吐率：2.39req/s] [内存消耗：9,857.54kb] [文件加载：203]
+[ error ] [2]Illegal string offset 'data'[F:\WebWork\car\application\admin\controller\Report.php:194]
+---------------------------------------------------------------
+[ 2020-07-11T17:00:39+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.412138s] [吞吐率：2.43req/s] [内存消耗：9,877.94kb] [文件加载：203]
+[ error ] [2]Invalid argument supplied for foreach()[F:\WebWork\car\application\admin\controller\Report.php:230]
+---------------------------------------------------------------
+[ 2020-07-11T17:02:58+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.538147s] [吞吐率：1.86req/s] [内存消耗：9,877.94kb] [文件加载：203]
+[ error ] [2]Invalid argument supplied for foreach()[F:\WebWork\car\application\admin\controller\Report.php:177]
+---------------------------------------------------------------
+[ 2020-07-11T17:03:37+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.421467s] [吞吐率：2.37req/s] [内存消耗：9,877.94kb] [文件加载：203]
+[ error ] [2]Invalid argument supplied for foreach()[F:\WebWork\car\application\admin\controller\Report.php:177]
+---------------------------------------------------------------
+[ 2020-07-11T17:04:25+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.338317s] [吞吐率：2.96req/s] [内存消耗：9,877.94kb] [文件加载：203]
+[ error ] [2]Invalid argument supplied for foreach()[F:\WebWork\car\application\admin\controller\Report.php:178]
+---------------------------------------------------------------
+[ 2020-07-11T17:05:31+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.555793s] [吞吐率：1.80req/s] [内存消耗：9,877.94kb] [文件加载：203]
+[ error ] [2]Invalid argument supplied for foreach()[F:\WebWork\car\application\admin\controller\Report.php:176]
+---------------------------------------------------------------
+[ 2020-07-11T17:06:45+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.405705s] [吞吐率：2.46req/s] [内存消耗：9,877.94kb] [文件加载：203]
+[ error ] [2]Invalid argument supplied for foreach()[F:\WebWork\car\application\admin\controller\Report.php:176]
+---------------------------------------------------------------
+[ 2020-07-11T17:08:34+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.384454s] [吞吐率：2.60req/s] [内存消耗：9,867.77kb] [文件加载：203]
+[ error ] [2]Invalid argument supplied for foreach()[F:\WebWork\car\application\admin\controller\Report.php:176]
+---------------------------------------------------------------
+[ 2020-07-11T17:09:02+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.430057s] [吞吐率：2.33req/s] [内存消耗：9,877.94kb] [文件加载：203]
+[ error ] [2]Invalid argument supplied for foreach()[F:\WebWork\car\application\admin\controller\Report.php:176]
+---------------------------------------------------------------
+[ 2020-07-11T17:09:16+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.432061s] [吞吐率：2.31req/s] [内存消耗：8,479.14kb] [文件加载：184]
+[ error ] [2]Invalid argument supplied for foreach()[F:\WebWork\car\application\admin\controller\Report.php:179]
+---------------------------------------------------------------
+[ 2020-07-11T17:10:19+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.323955s] [吞吐率：3.09req/s] [内存消耗：8,479.55kb] [文件加载：184]
+[ error ] [2]preg_match() expects parameter 2 to be string, array given[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\DefaultValueBinder.php:64]
+---------------------------------------------------------------
+[ 2020-07-11T17:11:57+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.385467s] [吞吐率：2.59req/s] [内存消耗：9,867.62kb] [文件加载：203]
+[ error ] [2]Invalid argument supplied for foreach()[F:\WebWork\car\application\admin\controller\Report.php:176]
+---------------------------------------------------------------
+[ 2020-07-11T17:12:48+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.402724s] [吞吐率：2.48req/s] [内存消耗：8,479.54kb] [文件加载：184]
+[ error ] [2]preg_match() expects parameter 2 to be string, array given[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\DefaultValueBinder.php:64]
+---------------------------------------------------------------
+[ 2020-07-11T17:17:09+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.369386s] [吞吐率：2.71req/s] [内存消耗：8,479.72kb] [文件加载：184]
+[ error ] [2]preg_match() expects parameter 2 to be string, array given[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\DefaultValueBinder.php:64]
+---------------------------------------------------------------
+[ 2020-07-11T17:33:53+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.378577s] [吞吐率：2.64req/s] [内存消耗：8,502.91kb] [文件加载：184]
+[ error ] [0]类型错误: Too few arguments to function PhpOffice\PhpSpreadsheet\IOFactory::createWriter(), 1 passed in F:\WebWork\car\application\admin\controller\Report.php on line 215 and exactly 2 expected[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php:47]
+---------------------------------------------------------------
+[ 2020-07-11T17:38:45+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.618603s] [吞吐率：1.62req/s] [内存消耗：10,061.33kb] [文件加载：206]
+[ error ] [2]ZipArchive::close(): Failure to create temporary file: No error[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php:409]
+---------------------------------------------------------------
+[ 2020-07-11T17:39:28+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.414825s] [吞吐率：2.41req/s] [内存消耗：9,981.00kb] [文件加载：204]
+[ error ] [2]unlink(F:\WebWork\car\public\file): Is a directory[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php:213]
+---------------------------------------------------------------
+[ 2020-07-11T18:03:31+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.448211s] [吞吐率：2.23req/s] [内存消耗：8,108.90kb] [文件加载：177]
+[ error ] [8]未定义数组下标: 0[F:\WebWork\car\application\admin\controller\Report.php:161]
+---------------------------------------------------------------
+[ 2020-07-11T18:27:11+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.429738s] [吞吐率：2.33req/s] [内存消耗：9,760.52kb] [文件加载：204]
+[ error ] [0]No writer found for type XLsx[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\IOFactory.php:50]
+---------------------------------------------------------------
+[ 2020-07-11T18:28:11+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.308981s] [吞吐率：3.24req/s] [内存消耗：3,165.98kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING)[F:\WebWork\car\application\admin\controller\Report.php:272]
+---------------------------------------------------------------
+[ 2020-07-11T18:41:19+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.332351s] [吞吐率：3.01req/s] [内存消耗：10,638.95kb] [文件加载：217]
+[ error ] [0]致命错误: Call to undefined method PhpOffice\PhpSpreadsheet\Writer\Xlsx::move()[F:\WebWork\car\application\admin\controller\Report.php:199]
+---------------------------------------------------------------
+[ 2020-07-11T18:45:53+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.628622s] [吞吐率：1.59req/s] [内存消耗：10,770.02kb] [文件加载：219]
+[ error ] [2]unlink(../): Is a directory[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php:213]
+---------------------------------------------------------------
+[ 2020-07-11T18:56:31+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.246203s] [吞吐率：4.06req/s] [内存消耗：5,308.27kb] [文件加载：142]
+[ error ] [0]致命错误: Call to undefined method app\admin\controller\Report::sum()[F:\WebWork\car\application\admin\controller\Report.php:71]
+---------------------------------------------------------------
+[ 2020-07-11T19:03:10+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.396733s] [吞吐率：2.52req/s] [内存消耗：9,980.72kb] [文件加载：204]
+[ error ] [2]unlink(/): Is a directory[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php:213]
+---------------------------------------------------------------
+[ 2020-07-11T20:01:22+08:00 ] 127.0.0.1 GET car.ls/a.php/report/add?dialog=1
+[运行时间：0.569387s] [吞吐率：1.76req/s] [内存消耗：3,165.76kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)[F:\WebWork\car\application\admin\controller\Report.php:320]
+---------------------------------------------------------------
+[ 2020-07-11T20:02:08+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.276925s] [吞吐率：3.61req/s] [内存消耗：8,109.10kb] [文件加载：177]
+[ error ] [8]未定义数组下标: 0[F:\WebWork\car\application\admin\controller\Report.php:161]
+---------------------------------------------------------------
+[ 2020-07-11T20:09:50+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.282076s] [吞吐率：3.55req/s] [内存消耗：8,479.73kb] [文件加载：184]
+[ error ] [8]未定义数组下标: 0[F:\WebWork\car\application\admin\controller\Report.php:268]
+---------------------------------------------------------------
+[ 2020-07-11T20:19:04+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.198908s] [吞吐率：5.03req/s] [内存消耗：5,293.19kb] [文件加载：143]
+[ error ] [8]未定义数组下标: 0[F:\WebWork\car\application\admin\controller\Report.php:73]
+---------------------------------------------------------------
+[ 2020-07-11T20:23:40+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.230885s] [吞吐率：4.33req/s] [内存消耗：5,294.16kb] [文件加载：143]
+[ error ] [8]未定义数组下标: 0[F:\WebWork\car\application\admin\controller\Report.php:72]
+---------------------------------------------------------------
+[ 2020-07-11T20:24:57+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.280556s] [吞吐率：3.56req/s] [内存消耗：5,300.80kb] [文件加载：143]
+[ error ] [8]未定义数组下标: 0[F:\WebWork\car\application\admin\controller\Report.php:72]
+---------------------------------------------------------------
+[ 2020-07-11T20:25:10+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.269543s] [吞吐率：3.71req/s] [内存消耗：5,293.45kb] [文件加载：143]
+[ error ] [8]未定义数组下标: 0[F:\WebWork\car\application\admin\controller\Report.php:72]
+---------------------------------------------------------------
+[ 2020-07-11T20:26:18+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.270653s] [吞吐率：3.69req/s] [内存消耗：5,293.48kb] [文件加载：143]
+[ error ] [8]未定义数组下标: 0[F:\WebWork\car\application\admin\controller\Report.php:72]
+---------------------------------------------------------------
+[ 2020-07-11T20:30:30+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.308782s] [吞吐率：3.24req/s] [内存消耗：8,484.34kb] [文件加载：184]
+[ error ] [2]Illegal string offset 'id'[F:\WebWork\car\application\admin\controller\Report.php:288]
+---------------------------------------------------------------
+[ 2020-07-11T20:30:46+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.397250s] [吞吐率：2.52req/s] [内存消耗：8,484.11kb] [文件加载：184]
+[ error ] [2]Illegal string offset 'dev_id'[F:\WebWork\car\application\admin\controller\Report.php:289]
+---------------------------------------------------------------
+[ 2020-07-11T20:31:14+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.355781s] [吞吐率：2.81req/s] [内存消耗：8,480.78kb] [文件加载：184]
+[ error ] [2]Illegal string offset 'id'[F:\WebWork\car\application\admin\controller\Report.php:288]
+---------------------------------------------------------------
+[ 2020-07-11T20:39:46+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.554487s] [吞吐率：1.80req/s] [内存消耗：10,058.74kb] [文件加载：205]
+[ error ] [2]ZipArchive::close(): Failure to create temporary file: No error[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php:409]
+---------------------------------------------------------------
+[ 2020-07-11T20:40:08+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.823415s] [吞吐率：1.21req/s] [内存消耗：10,058.57kb] [文件加载：205]
+[ error ] [2]ZipArchive::close(): Failure to create temporary file: No error[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php:409]
+---------------------------------------------------------------
+[ 2020-07-11T20:40:18+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.515203s] [吞吐率：1.94req/s] [内存消耗：10,058.74kb] [文件加载：205]
+[ error ] [2]ZipArchive::close(): Failure to create temporary file: No error[F:\WebWork\car\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php:409]
+---------------------------------------------------------------
+[ 2020-07-11T21:00:06+08:00 ] 127.0.0.1 GET car.ls/a.php/report/add?dialog=1
+[运行时间：0.305852s] [吞吐率：3.27req/s] [内存消耗：3,165.80kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected 'if' (T_IF)[F:\WebWork\car\application\admin\controller\Report.php:329]
+---------------------------------------------------------------
+[ 2020-07-11T21:01:32+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.439646s] [吞吐率：2.27req/s] [内存消耗：10,050.84kb] [文件加载：205]
+[ error ] [2]fread() expects exactly 2 parameters, 1 given[F:\WebWork\car\application\admin\controller\Report.php:315]
+---------------------------------------------------------------
+[ 2020-07-11T21:01:46+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.248960s] [吞吐率：4.02req/s] [内存消耗：10,050.93kb] [文件加载：205]
+[ error ] [2]filesize() expects parameter 1 to be a valid path, object given[F:\WebWork\car\application\admin\controller\Report.php:315]
+---------------------------------------------------------------
+[ 2020-07-11T21:02:01+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.483575s] [吞吐率：2.07req/s] [内存消耗：10,050.84kb] [文件加载：205]
+[ error ] [2]fread() expects parameter 1 to be resource, object given[F:\WebWork\car\application\admin\controller\Report.php:315]
+---------------------------------------------------------------
+[ 2020-07-11T21:13:46+08:00 ] 127.0.0.1 GET car.ls/a.php/report/download/ids/83?dialog=1
+[运行时间：0.242024s] [吞吐率：4.13req/s] [内存消耗：5,327.03kb] [文件加载：143]
+[ error ] [2]Illegal string offset 'ids'[F:\WebWork\car\application\admin\controller\Report.php:328]
+---------------------------------------------------------------
+[ 2020-07-11T21:28:14+08:00 ] 127.0.0.1 GET car.ls/a.php/report?addtabs=1
+[运行时间：0.226919s] [吞吐率：4.41req/s] [内存消耗：5,509.17kb] [文件加载：144]
+[ error ] [0]语法解析错误: syntax error, unexpected 'id' (T_STRING), expecting ')'[F:\WebWork\car\runtime\temp\534fe5ea5c2cfb4127ca367975a97a8e.php:78]
+---------------------------------------------------------------
+[ 2020-07-11T21:28:27+08:00 ] 127.0.0.1 GET car.ls/a.php/report?addtabs=1
+[运行时间：0.243271s] [吞吐率：4.11req/s] [内存消耗：5,509.17kb] [文件加载：144]
+[ error ] [0]语法解析错误: syntax error, unexpected 'id' (T_STRING), expecting ')'[F:\WebWork\car\runtime\temp\534fe5ea5c2cfb4127ca367975a97a8e.php:78]
+---------------------------------------------------------------
+[ 2020-07-11T21:28:35+08:00 ] 127.0.0.1 GET car.ls/a.php/report?addtabs=1
+[运行时间：0.251643s] [吞吐率：3.97req/s] [内存消耗：5,328.29kb] [文件加载：142]
+[ error ] [0]语法解析错误: syntax error, unexpected 'id' (T_STRING), expecting ')'[F:\WebWork\car\runtime\temp\534fe5ea5c2cfb4127ca367975a97a8e.php:78]
+---------------------------------------------------------------
+[ 2020-07-11T21:58:06+08:00 ] 127.0.0.1 GET car.ls/a.php/report?addtabs=1
+[运行时间：0.304432s] [吞吐率：3.28req/s] [内存消耗：5,488.95kb] [文件加载：145]
+[ error ] [0]致命错误: Call to undefined function uel()[F:\WebWork\car\runtime\temp\534fe5ea5c2cfb4127ca367975a97a8e.php:78]

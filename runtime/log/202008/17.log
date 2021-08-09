@@ -1,0 +1,552 @@
+---------------------------------------------------------------
+[ 2020-08-17T09:54:54+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.460813s] [吞吐率：2.17req/s] [内存消耗：570.88kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T09:55:29+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.048479s] [吞吐率：20.63req/s] [内存消耗：634.44kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T09:55:30+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.023129s] [吞吐率：43.24req/s] [内存消耗：569.36kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T09:57:46+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.079555s] [吞吐率：12.57req/s] [内存消耗：271.08kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST)[F:\WebWork\car\application\api\controller\Cardlog.php:977]
+---------------------------------------------------------------
+[ 2020-08-17T09:58:04+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.037798s] [吞吐率：26.46req/s] [内存消耗：634.44kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T09:58:58+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.036897s] [吞吐率：27.10req/s] [内存消耗：569.36kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T09:59:00+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.015857s] [吞吐率：63.06req/s] [内存消耗：569.36kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T09:59:01+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.015632s] [吞吐率：63.97req/s] [内存消耗：569.36kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T09:59:11+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.018536s] [吞吐率：53.95req/s] [内存消耗：634.08kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:00:20+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.053491s] [吞吐率：18.69req/s] [内存消耗：698.36kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:00:23+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.035854s] [吞吐率：27.89req/s] [内存消耗：633.45kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:00:31+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013621s] [吞吐率：73.42req/s] [内存消耗：568.37kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:00:31+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.020935s] [吞吐率：47.77req/s] [内存消耗：568.37kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:00:32+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.019293s] [吞吐率：51.83req/s] [内存消耗：568.37kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:00:42+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.027312s] [吞吐率：36.61req/s] [内存消耗：568.37kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:00:43+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.014375s] [吞吐率：69.57req/s] [内存消耗：568.37kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:01:00+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.014519s] [吞吐率：68.88req/s] [内存消耗：568.37kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:02:46+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.049116s] [吞吐率：20.36req/s] [内存消耗：633.55kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:02:54+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.037375s] [吞吐率：26.76req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:02:55+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.018359s] [吞吐率：54.47req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:02:56+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013801s] [吞吐率：72.46req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:02:56+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.016874s] [吞吐率：59.26req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:02:57+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.014915s] [吞吐率：67.05req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:05+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.020210s] [吞吐率：49.48req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:06+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.023019s] [吞吐率：43.44req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:12+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.015008s] [吞吐率：66.63req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:13+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.018633s] [吞吐率：53.67req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:14+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.019046s] [吞吐率：52.50req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:15+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.015234s] [吞吐率：65.64req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:15+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.016610s] [吞吐率：60.20req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:25+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.019798s] [吞吐率：50.51req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:26+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.020845s] [吞吐率：47.97req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:39+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013253s] [吞吐率：75.45req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:41+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.023037s] [吞吐率：43.41req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:42+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.016908s] [吞吐率：59.14req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:43+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.021321s] [吞吐率：46.90req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:44+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.016022s] [吞吐率：62.41req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:44+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.014163s] [吞吐率：70.61req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:44+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.012643s] [吞吐率：79.09req/s] [内存消耗：568.47kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:03:48+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.022383s] [吞吐率：44.68req/s] [内存消耗：633.48kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:04:03+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.018075s] [吞吐率：55.33req/s] [内存消耗：568.41kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:10:50+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.068223s] [吞吐率：14.66req/s] [内存消耗：634.19kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:12:27+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.057094s] [吞吐率：17.51req/s] [内存消耗：633.62kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:12:38+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.022813s] [吞吐率：43.83req/s] [内存消耗：568.54kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:12:39+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.019422s] [吞吐率：51.49req/s] [内存消耗：568.54kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:12:41+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.011783s] [吞吐率：84.87req/s] [内存消耗：568.54kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:12:41+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.015036s] [吞吐率：66.51req/s] [内存消耗：568.54kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:12:42+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.012921s] [吞吐率：77.39req/s] [内存消耗：568.54kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:12:56+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.022747s] [吞吐率：43.96req/s] [内存消耗：568.54kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:12:58+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.030327s] [吞吐率：32.97req/s] [内存消耗：568.54kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:00+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013945s] [吞吐率：71.71req/s] [内存消耗：568.54kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:01+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013469s] [吞吐率：74.24req/s] [内存消耗：568.54kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:02+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.016222s] [吞吐率：61.64req/s] [内存消耗：568.54kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:27+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013827s] [吞吐率：72.32req/s] [内存消耗：568.54kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'deletetime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:28+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.022302s] [吞吐率：44.84req/s] [内存消耗：633.55kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:29+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.014541s] [吞吐率：68.77req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:30+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.011333s] [吞吐率：88.24req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:31+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.014501s] [吞吐率：68.96req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:31+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.010632s] [吞吐率：94.06req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:51+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.016026s] [吞吐率：62.40req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:53+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013531s] [吞吐率：73.90req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:54+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.015058s] [吞吐率：66.41req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:13:55+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013581s] [吞吐率：73.63req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:14:02+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.033193s] [吞吐率：30.13req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:14:04+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013229s] [吞吐率：75.59req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:14:08+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.018947s] [吞吐率：52.78req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:14:09+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.015481s] [吞吐率：64.60req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:14:15+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.016403s] [吞吐率：60.96req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:14:16+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.015853s] [吞吐率：63.08req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:14:17+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.017224s] [吞吐率：58.06req/s] [内存消耗：568.48kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:03+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.064400s] [吞吐率：15.53req/s] [内存消耗：635.84kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:25+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.029800s] [吞吐率：33.56req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:28+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.016457s] [吞吐率：60.76req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:29+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013145s] [吞吐率：76.07req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:31+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013291s] [吞吐率：75.24req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:32+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.019225s] [吞吐率：52.02req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:36+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.014308s] [吞吐率：69.89req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:47+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.014559s] [吞吐率：68.69req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:54+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.020872s] [吞吐率：47.91req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:55+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.014181s] [吞吐率：70.52req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:56+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.025330s] [吞吐率：39.48req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:57+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013785s] [吞吐率：72.54req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:57+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.020108s] [吞吐率：49.73req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:58+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.012686s] [吞吐率：78.83req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:58+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.022572s] [吞吐率：44.30req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:23:59+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.011745s] [吞吐率：85.14req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:24:00+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.014641s] [吞吐率：68.30req/s] [内存消耗：570.76kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.card.cardname FROM `fa_card` `card` INNER JOIN `fa_cardlog` `log` ON `card`.`id' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:24:23+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.041689s] [吞吐率：23.99req/s] [内存消耗：632.34kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:24:49+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.015150s] [吞吐率：66.01req/s] [内存消耗：567.27kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:24:50+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.014278s] [吞吐率：70.04req/s] [内存消耗：567.27kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:24:56+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.018003s] [吞吐率：55.55req/s] [内存消耗：567.27kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:24:57+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013616s] [吞吐率：73.44req/s] [内存消耗：567.27kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:24:58+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.021403s] [吞吐率：46.72req/s] [内存消耗：567.27kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:24:59+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.015781s] [吞吐率：63.37req/s] [内存消耗：567.27kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:25:00+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.055317s] [吞吐率：18.08req/s] [内存消耗：567.27kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:25:00+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.013407s] [吞吐率：74.59req/s] [内存消耗：567.27kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:25:05+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.037173s] [吞吐率：26.90req/s] [内存消耗：567.27kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:25:06+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.017137s] [吞吐率：58.35req/s] [内存消耗：567.27kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T10:39:17+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.042292s] [吞吐率：23.65req/s] [内存消耗：633.62kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:02:04+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byCardnum
+[运行时间：0.182085s] [吞吐率：5.49req/s] [内存消耗：640.95kb] [文件加载：140]
+[ error ] [2]array_pop() expects exactly 1 parameter, 2 given[F:\WebWork\car\application\api\controller\Cardlog.php:969]
+---------------------------------------------------------------
+[ 2020-08-17T11:36:56+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.068848s] [吞吐率：14.52req/s] [内存消耗：635.00kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Card.cardname' in 'field list'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:38:59+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.048106s] [吞吐率：20.79req/s] [内存消耗：634.42kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:45:21+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.050511s] [吞吐率：19.80req/s] [内存消耗：634.42kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:45:43+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.040350s] [吞吐率：24.78req/s] [内存消耗：569.34kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:45:44+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.017293s] [吞吐率：57.83req/s] [内存消耗：569.34kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:45:57+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.020970s] [吞吐率：47.69req/s] [内存消耗：569.34kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:45:59+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.026196s] [吞吐率：38.17req/s] [内存消耗：569.34kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:46:01+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.020668s] [吞吐率：48.38req/s] [内存消耗：569.34kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:46:05+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.013797s] [吞吐率：72.48req/s] [内存消耗：569.34kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:47:13+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.049107s] [吞吐率：20.36req/s] [内存消耗：634.42kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:47:22+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.037456s] [吞吐率：26.70req/s] [内存消耗：569.34kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:47:26+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.012443s] [吞吐率：80.37req/s] [内存消耗：569.34kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:47:27+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.021374s] [吞吐率：46.79req/s] [内存消耗：569.34kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:47:28+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.041409s] [吞吐率：24.15req/s] [内存消耗：569.34kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:48:36+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.045201s] [吞吐率：22.12req/s] [内存消耗：633.28kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:48:38+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.032999s] [吞吐率：30.30req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:48:50+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.016602s] [吞吐率：60.23req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:48:52+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.015395s] [吞吐率：64.96req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:00+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.015544s] [吞吐率：64.33req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:08+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.013969s] [吞吐率：71.59req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:10+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.010640s] [吞吐率：93.99req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:13+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.012965s] [吞吐率：77.13req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:23+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.033424s] [吞吐率：29.92req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:25+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.017602s] [吞吐率：56.81req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:26+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.011367s] [吞吐率：87.98req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:26+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.020631s] [吞吐率：48.47req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:27+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.010918s] [吞吐率：91.59req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:27+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.020440s] [吞吐率：48.92req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:28+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.013972s] [吞吐率：71.57req/s] [内存消耗：568.20kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1630 FUNCTION cardlog.count does not exist. Check the 'Function Name Parsing and Resolution' section in the Reference Manual[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:38+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.039576s] [吞吐率：25.27req/s] [内存消耗：632.96kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:39+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.016878s] [吞吐率：59.25req/s] [内存消耗：567.88kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:55+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.020120s] [吞吐率：49.70req/s] [内存消耗：567.88kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T11:49:56+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.014621s] [吞吐率：68.39req/s] [内存消耗：567.88kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'createtime' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T12:27:35+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.042064s] [吞吐率：23.77req/s] [内存消耗：633.79kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Cardlog.comp_id' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T12:28:13+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.014664s] [吞吐率：68.19req/s] [内存消耗：568.60kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Cardlog.comp_id' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T12:28:14+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.014098s] [吞吐率：70.93req/s] [内存消耗：568.60kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Cardlog.comp_id' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T12:28:44+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.044824s] [吞吐率：22.31req/s] [内存消耗：635.25kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Cardlog.createtime' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-17T12:28:53+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.025305s] [吞吐率：39.52req/s] [内存消耗：570.17kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Cardlog.createtime' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]

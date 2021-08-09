@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2020-08-05T12:51:42+08:00 ] 127.0.0.1 GET car.ls/index.php/api/Base/stat_web
+[运行时间：0.282822s] [吞吐率：3.54req/s] [内存消耗：4,725.80kb] [文件加载：137]
+[ error ] [8]Array to string conversion[F:\WebWork\car\application\api\controller\Base.php:27]

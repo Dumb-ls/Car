@@ -1,0 +1,55 @@
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Comp_id')}:</label>
+        <div class="col-xs-12 col-sm-5">
+<!--            <input id="c-comp_id" data-rule="required" data-source="comp/index" class="form-control selectpage" name="row[comp_id]" type="text" value="">-->
+            <input id="comp_id" data-rule="required" data-source="comp/get_type_list"  class="form-control selectpage" name="row[comp_id]" type="text" value="" data-field="compname">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Dept_id')}:</label>
+        <div class="col-xs-12 col-sm-5">
+<!--            <input id="c-dept_id" data-rule="required" data-source="dept/index" class="form-control selectpage" name="row[dept_id]" type="text" value="">-->
+            <input id="c-dept_id" data-rule="required" data-source="dept/get_type_list" class="form-control selectpage" name="row[dept_id]" type="text" value="" data-field="deptname">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Operip')}:</label>
+        <div class="col-xs-12 col-sm-5">
+            <input id="c-operip" class="form-control" name="row[operip]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Operdt')}:</label>
+        <div class="col-xs-12 col-sm-5">
+            <input id="c-operdt" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" name="row[operdt]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Opermsg')}:</label>
+        <div class="col-xs-12 col-sm-5">
+            <input id="c-opermsg" class="form-control" name="row[opermsg]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Operdo')}:</label>
+        <div class="col-xs-12 col-sm-5">
+            <input id="c-operdo" class="form-control" name="row[operdo]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Operswitch')}:</label>
+        <div class="col-xs-12 col-sm-5">
+<!--            <input id="c-operswitch" data-rule="required" class="form-control" name="row[operswitch]" type="number">-->
+            {:build_radios('row[operswitch]', ['1'=>__('Normal'), '0'=>'禁用'])}
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-5">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

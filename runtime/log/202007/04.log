@@ -1,0 +1,32 @@
+---------------------------------------------------------------
+[ 2020-07-04T00:08:05+08:00 ] 113.229.191.158 POST car.zhuohang.tech/index.php/api/company/getComp
+[运行时间：0.024526s] [吞吐率：40.77req/s] [内存消耗：463.31kb] [文件加载：137]
+[ error ] [8]未定义数组索引: compname[C:\car\application\api\controller\Company.php:30]
+---------------------------------------------------------------
+[ 2020-07-04T00:08:51+08:00 ] 113.229.191.158 POST car.zhuohang.tech/index.php/api/company/getComp
+[运行时间：0.005732s] [吞吐率：174.46req/s] [内存消耗：462.15kb] [文件加载：137]
+[ error ] [8]未定义数组索引: compname[C:\car\application\api\controller\Company.php:30]
+---------------------------------------------------------------
+[ 2020-07-04T00:11:49+08:00 ] 113.229.191.158 POST car.zhuohang.tech/index.php/api/company/getComp
+[运行时间：0.004893s] [吞吐率：204.38req/s] [内存消耗：462.15kb] [文件加载：137]
+[ error ] [8]未定义数组索引: compname[C:\car\application\api\controller\Company.php:30]
+---------------------------------------------------------------
+[ 2020-07-04T13:49:44+08:00 ] 113.229.191.158 POST car.zhuohang.tech/index.php/api/company/getComp
+[运行时间：0.008506s] [吞吐率：117.57req/s] [内存消耗：462.15kb] [文件加载：137]
+[ error ] [8]未定义数组索引: compname[C:\car\application\api\controller\Company.php:30]
+---------------------------------------------------------------
+[ 2020-07-04T13:56:33+08:00 ] 113.229.191.158 POST car.zhuohang.tech/index.php/api/company/getComp
+[运行时间：0.006981s] [吞吐率：143.24req/s] [内存消耗：462.15kb] [文件加载：137]
+[ error ] [8]未定义数组索引: compname[C:\car\application\api\controller\Company.php:30]
+---------------------------------------------------------------
+[ 2020-07-04T14:08:27+08:00 ] 113.229.191.158 POST car.zhuohang.tech/index.php/api/company/getComp
+[运行时间：0.006948s] [吞吐率：143.93req/s] [内存消耗：462.15kb] [文件加载：137]
+[ error ] [8]未定义数组索引: compname[C:\car\application\api\controller\Company.php:30]
+---------------------------------------------------------------
+[ 2020-07-04T14:10:07+08:00 ] 113.229.191.158 POST car.zhuohang.tech/index.php/api/company/getComp
+[运行时间：0.005708s] [吞吐率：175.19req/s] [内存消耗：462.15kb] [文件加载：137]
+[ error ] [8]未定义数组索引: compname[C:\car\application\api\controller\Company.php:30]
+---------------------------------------------------------------
+[ 2020-07-04T14:10:34+08:00 ] 113.229.191.158 POST car.zhuohang.tech/index.php/api/company/getComp
+[运行时间：0.007371s] [吞吐率：135.67req/s] [内存消耗：462.15kb] [文件加载：137]
+[ error ] [8]未定义数组索引: compname[C:\car\application\api\controller\Company.php:30]

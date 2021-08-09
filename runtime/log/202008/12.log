@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2020-08-12T08:41:06+08:00 ] 127.0.0.1 POST car.ls/index.php//api/devlog/writeLog
+[运行时间：0.363223s] [吞吐率：2.75req/s] [内存消耗：628.17kb] [文件加载：138]
+[ error ] [0]数据表字段不存在:[comp_id][F:\WebWork\car\thinkphp\library\think\db\Builder.php:115]
+---------------------------------------------------------------
+[ 2020-08-12T15:50:32+08:00 ] 127.0.0.1 GET car.ls/a.php/devlog/edit/ids/5?dialog=1
+[运行时间：0.230548s] [吞吐率：4.34req/s] [内存消耗：744.20kb] [文件加载：142]
+[ error ] [0]类型错误: Too few arguments to function think\Model::data(), 0 passed in F:\WebWork\car\thinkphp\library\think\Model.php on line 620 and at least 1 expected[F:\WebWork\car\thinkphp\library\think\Model.php:340]
+---------------------------------------------------------------
+[ 2020-08-12T15:50:53+08:00 ] 127.0.0.1 GET car.ls/a.php/devlog/edit/ids/5?dialog=1
+[运行时间：0.094588s] [吞吐率：10.57req/s] [内存消耗：743.60kb] [文件加载：142]
+[ error ] [0]类型错误: Too few arguments to function think\Model::data(), 0 passed in F:\WebWork\car\thinkphp\library\think\Model.php on line 620 and at least 1 expected[F:\WebWork\car\thinkphp\library\think\Model.php:340]

@@ -1,0 +1,55 @@
+<?php
+
+return array (
+  'name' => '车辆信息管理平台',
+  'beian' => '',
+  'cdnurl' => '',
+  'version' => '1.0.1',
+  'timezone' => 'Asia/Shanghai',
+  'forbiddenip' => '',
+  'languages' => 
+  array (
+    'backend' => 'zh-cn',
+    'frontend' => 'zh-cn',
+  ),
+  'fixedpage' => 'dashboard',
+  'categorytype' => 
+  array (
+    'default' => 'Default',
+    'page' => 'Page',
+  ),
+  'configgroup' => 
+  array (
+    'system' => 'System',
+    'user' => 'User',
+    'device' => 'Device',
+    'wechat' => 'Wechat',
+    'basic' => 'Basic',
+    'dictionary' => 'Dictionary',
+  ),
+  'sys_name' => '车辆统计',
+  'sys_stat' => '1',
+  'sys_dtime' => '3',
+  'sys_stime' => '6',
+  'sys_etime' => '12',
+  'sys_ptime' => '12',
+  'sys_autorep' => '1',
+  'sys_autobk' => '0',
+  'file_upload' => '/file/upload',
+  'file_image' => '/file/images',
+  'file_tmp' => '/file/tmp',
+  'stat_web' => '1',
+  'stat_weblogin' => '1',
+  'stat_mp' => '1',
+  'stat_mpfee' => '1',
+  'dev_log' => '1',
+  'dev_logfee' => '1',
+  'dev_infofee' => '1',
+  'dev_logunreg' => '1',
+  'dev_offline' => '1',
+  'dev_fee' => '1',
+  'dev_dept' => '1',
+  'mp_ak' => 'mp==',
+  'mp_sk' => 'mpZ====',
+  'mp_cert' => '/file/system/cert.crt',
+);

@@ -1,0 +1,68 @@
+---------------------------------------------------------------
+[ 2020-07-09T10:12:16+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594260734355
+[运行时间：1.302601s] [吞吐率：0.77req/s] [内存消耗：5,266.66kb] [文件加载：142]
+[ error ] [0]method not exist:think\db\Query->card[F:\WebWork\car\thinkphp\library\think\db\Query.php:103]
+---------------------------------------------------------------
+[ 2020-07-09T10:12:29+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594260748991
+[运行时间：0.245593s] [吞吐率：4.07req/s] [内存消耗：5,266.67kb] [文件加载：142]
+[ error ] [0]method not exist:think\db\Query->card[F:\WebWork\car\thinkphp\library\think\db\Query.php:103]
+---------------------------------------------------------------
+[ 2020-07-09T10:13:46+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594260748992
+[运行时间：0.301728s] [吞吐率：3.31req/s] [内存消耗：5,266.67kb] [文件加载：142]
+[ error ] [0]method not exist:think\db\Query->card[F:\WebWork\car\thinkphp\library\think\db\Query.php:103]
+---------------------------------------------------------------
+[ 2020-07-09T10:14:32+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594260871461
+[运行时间：0.151888s] [吞吐率：6.58req/s] [内存消耗：5,266.67kb] [文件加载：142]
+[ error ] [0]method not exist:think\db\Query->card[F:\WebWork\car\thinkphp\library\think\db\Query.php:103]
+---------------------------------------------------------------
+[ 2020-07-09T10:15:36+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594260936190
+[运行时间：0.155309s] [吞吐率：6.44req/s] [内存消耗：5,285.23kb] [文件加载：142]
+[ error ] [0]method not exist:think\db\Query->comp[F:\WebWork\car\thinkphp\library\think\db\Query.php:103]
+---------------------------------------------------------------
+[ 2020-07-09T10:18:07+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594261087149
+[运行时间：0.163674s] [吞吐率：6.11req/s] [内存消耗：5,266.67kb] [文件加载：142]
+[ error ] [0]method not exist:think\db\Query->card[F:\WebWork\car\thinkphp\library\think\db\Query.php:103]
+---------------------------------------------------------------
+[ 2020-07-09T10:19:56+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594261195597
+[运行时间：0.156418s] [吞吐率：6.39req/s] [内存消耗：5,266.67kb] [文件加载：142]
+[ error ] [0]method not exist:think\db\Query->card[F:\WebWork\car\thinkphp\library\think\db\Query.php:103]
+---------------------------------------------------------------
+[ 2020-07-09T10:20:16+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594261216078
+[运行时间：0.161260s] [吞吐率：6.20req/s] [内存消耗：5,266.67kb] [文件加载：142]
+[ error ] [0]method not exist:think\db\Query->card[F:\WebWork\car\thinkphp\library\think\db\Query.php:103]
+---------------------------------------------------------------
+[ 2020-07-09T10:39:18+08:00 ] 127.0.0.1 POST car.ls/index.php/api/android/getMsg
+[运行时间：0.274903s] [吞吐率：3.64req/s] [内存消耗：4,645.63kb] [文件加载：136]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\WebWork\car\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2020-07-09T10:40:49+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog?ref=addtabs
+[运行时间：0.162208s] [吞吐率：6.16req/s] [内存消耗：4,643.88kb] [文件加载：136]
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[F:\WebWork\car\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2020-07-09T10:54:22+08:00 ] 127.0.0.1 POST car.ls/index.php/api/android/getMsg
+[运行时间：0.238286s] [吞吐率：4.20req/s] [内存消耗：4,652.68kb] [文件加载：138]
+[ error ] [8]未定义数组索引: id[F:\WebWork\car\application\api\controller\Android.php:89]
+---------------------------------------------------------------
+[ 2020-07-09T10:56:31+08:00 ] 127.0.0.1 POST car.ls/index.php/api/android/getMsg
+[运行时间：0.275866s] [吞吐率：3.62req/s] [内存消耗：4,750.30kb] [文件加载：138]
+[ error ] [8]未定义数组索引: id[F:\WebWork\car\application\api\controller\Android.php:91]
+---------------------------------------------------------------
+[ 2020-07-09T10:57:21+08:00 ] 127.0.0.1 POST car.ls/index.php/api/android/getMsg
+[运行时间：0.293538s] [吞吐率：3.41req/s] [内存消耗：4,750.40kb] [文件加载：138]
+[ error ] [8]未定义数组索引: id[F:\WebWork\car\application\api\controller\Android.php:91]
+---------------------------------------------------------------
+[ 2020-07-09T11:35:13+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog?addtabs=1
+[运行时间：0.192885s] [吞吐率：5.18req/s] [内存消耗：3,165.76kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected '}'[F:\WebWork\car\application\admin\controller\Cardlog.php:76]
+---------------------------------------------------------------
+[ 2020-07-09T11:35:22+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1594265721917
+[运行时间：0.248771s] [吞吐率：4.02req/s] [内存消耗：5,571.59kb] [文件加载：151]
+[ error ] [2]time() expects exactly 0 parameters, 2 given[F:\WebWork\car\application\admin\controller\Cardlog.php:75]
+---------------------------------------------------------------
+[ 2020-07-09T11:36:20+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog?addtabs=1
+[运行时间：0.561722s] [吞吐率：1.78req/s] [内存消耗：5,571.41kb] [文件加载：151]
+[ error ] [2]time() expects exactly 0 parameters, 2 given[F:\WebWork\car\application\admin\controller\Cardlog.php:75]
+---------------------------------------------------------------
+[ 2020-07-09T11:43:38+08:00 ] 127.0.0.1 POST car.ls/index.php/api/card/getCard
+[运行时间：0.228128s] [吞吐率：4.38req/s] [内存消耗：3,044.54kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected ')', expecting ']'[F:\WebWork\car\application\api\controller\Card.php:72]

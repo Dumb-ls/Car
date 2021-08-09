@@ -1,0 +1,80 @@
+---------------------------------------------------------------
+[ 2020-08-04T12:47:52+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.297433s] [吞吐率：3.36req/s] [内存消耗：4,776.47kb] [文件加载：137]
+[ error ] [0]查询表达式错误:[F:\WebWork\car\thinkphp\library\think\db\Builder.php:347]
+---------------------------------------------------------------
+[ 2020-08-04T12:48:18+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.146408s] [吞吐率：6.83req/s] [内存消耗：4,775.13kb] [文件加载：137]
+[ error ] [0]查询表达式错误:1[F:\WebWork\car\thinkphp\library\think\db\Builder.php:347]
+---------------------------------------------------------------
+[ 2020-08-04T12:48:45+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.145982s] [吞吐率：6.85req/s] [内存消耗：4,775.13kb] [文件加载：137]
+[ error ] [0]查询表达式错误:1[F:\WebWork\car\thinkphp\library\think\db\Builder.php:347]
+---------------------------------------------------------------
+[ 2020-08-04T12:55:25+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.220614s] [吞吐率：4.53req/s] [内存消耗：4,052.67kb] [文件加载：136]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'detetetime IN (null,0)' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-04T12:56:07+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.127010s] [吞吐率：7.87req/s] [内存消耗：4,052.22kb] [文件加载：136]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column '1detetetime' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-04T12:56:50+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.127642s] [吞吐率：7.83req/s] [内存消耗：4,052.68kb] [文件加载：136]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'detetetime IN (null,0)' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-04T12:58:19+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.155566s] [吞吐率：6.43req/s] [内存消耗：4,052.68kb] [文件加载：136]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'detetetime IN (null,0)' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-04T13:00:50+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.162264s] [吞吐率：6.16req/s] [内存消耗：4,053.15kb] [文件加载：136]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?and deletetime IN (null,0)' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-04T13:01:13+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.108487s] [吞吐率：9.22req/s] [内存消耗：4,053.15kb] [文件加载：136]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?and deletetime IN ("null","0")' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-04T13:02:23+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.127668s] [吞吐率：7.83req/s] [内存消耗：4,053.15kb] [文件加载：136]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?and deletetime IN (null,0)' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-04T13:02:36+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.132966s] [吞吐率：7.52req/s] [内存消耗：4,053.15kb] [文件加载：136]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?and deletetime IN ('null','0')' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-04T13:02:37+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.121123s] [吞吐率：8.26req/s] [内存消耗：4,053.15kb] [文件加载：136]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?and deletetime IN ('null','0')' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-04T13:02:38+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.100030s] [吞吐率：10.00req/s] [内存消耗：4,053.15kb] [文件加载：136]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?and deletetime IN ('null','0')' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-04T13:03:55+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.150369s] [吞吐率：6.65req/s] [内存消耗：4,775.13kb] [文件加载：137]
+[ error ] [0]查询表达式错误:1[F:\WebWork\car\thinkphp\library\think\db\Builder.php:347]
+---------------------------------------------------------------
+[ 2020-08-04T13:06:04+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.149900s] [吞吐率：6.67req/s] [内存消耗：4,785.09kb] [文件加载：139]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0 null' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-04T13:07:12+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.233204s] [吞吐率：4.29req/s] [内存消耗：4,785.09kb] [文件加载：139]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0 null' at line 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-04T13:12:01+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.158479s] [吞吐率：6.31req/s] [内存消耗：4,776.48kb] [文件加载：137]
+[ error ] [0]查询表达式错误:[F:\WebWork\car\thinkphp\library\think\db\Builder.php:347]
+---------------------------------------------------------------
+[ 2020-08-04T13:12:11+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.172897s] [吞吐率：5.78req/s] [内存消耗：4,775.13kb] [文件加载：137]
+[ error ] [0]查询表达式错误:1[F:\WebWork\car\thinkphp\library\think\db\Builder.php:347]
+---------------------------------------------------------------
+[ 2020-08-04T13:14:24+08:00 ] 127.0.0.1 POST car.ls/index.php//api/Dev/getDev
+[运行时间：0.130681s] [吞吐率：7.65req/s] [内存消耗：4,776.07kb] [文件加载：137]
+[ error ] [0]查询表达式错误:[F:\WebWork\car\thinkphp\library\think\db\Builder.php:347]
+---------------------------------------------------------------
+[ 2020-08-04T13:26:16+08:00 ] 127.0.0.1 POST car.ls/index.php/api/config/restore
+[运行时间：0.124621s] [吞吐率：8.02req/s] [内存消耗：3,817.64kb] [文件加载：132]
+[ error ] [8]未定义数组索引: tb[F:\WebWork\car\application\api\controller\Config.php:81]

@@ -1,0 +1,8 @@
+---------------------------------------------------------------
+[ 2020-07-20T16:16:03+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/writeLog
+[运行时间：0.596968s] [吞吐率：1.68req/s] [内存消耗：4,942.77kb] [文件加载：140]
+[ error ] [2]Use of undefined constant rams - assumed 'rams' (this will throw an Error in a future version of PHP)[F:\WebWork\car\application\api\controller\Cardlog.php:56]
+---------------------------------------------------------------
+[ 2020-07-20T16:16:31+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/writeLog
+[运行时间：0.312080s] [吞吐率：3.20req/s] [内存消耗：4,924.05kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'logstat' at row 1[F:\WebWork\car\thinkphp\library\think\db\Connection.php:453]

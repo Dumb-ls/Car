@@ -1,0 +1,81 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Compname')}:</label>
+        <div class="col-xs-12 col-sm-5">
+            <input id="c-compname" data-rule="required" class="form-control" name="row[compname]" type="text" value="{$row.compname|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Compuser')}:</label>
+        <div class="col-xs-12 col-sm-5">
+            <input id="c-compuser" data-rule="required" class="form-control" name="row[compuser]" type="text" value="{$row.compuser|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Comppass')}:</label>
+        <div class="col-xs-12 col-sm-5">
+            <input id="c-comppass" data-rule="required" class="form-control" name="row[comppass]" type="text" value="{$row.comppass|htmlentities}">
+        </div>
+    </div>
+<!--    <div class="form-group">-->
+<!--        <label class="control-label col-xs-12 col-sm-2">{:__('Compsk')}:</label>-->
+<!--        <div class="col-xs-12 col-sm-8">-->
+<!--            <input id="c-compsk" class="form-control" name="row[compsk]" type="text" value="{$row.compsk|htmlentities}">-->
+<!--        </div>-->
+<!--    </div>-->
+<!--    <div class="form-group">-->
+<!--        <label class="control-label col-xs-12 col-sm-2">{:__('Compvk')}:</label>-->
+<!--        <div class="col-xs-12 col-sm-8">-->
+<!--            <input id="c-compvk" class="form-control" name="row[compvk]" type="text" value="{$row.compvk|htmlentities}">-->
+<!--        </div>-->
+<!--    </div>-->
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Compaddr')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-compaddr" class="form-control" name="row[compaddr]" type="text" value="{$row.compaddr|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Comptel')}:</label>
+        <div class="col-xs-12 col-sm-5">
+            <input id="c-comptel" class="form-control" name="row[comptel]" type="text" value="{$row.comptel|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Compjson')}:</label>
+        <div class="col-xs-12 col-sm-8">
+
+            <dl class="fieldlist" data-name="row[compjson]">
+                <dd>
+                    <ins>{:__('Key')}</ins>
+                    <ins>{:__('Value')}</ins>
+                </dd>
+                <dd><a href="javascript:;" class="btn btn-sm btn-success btn-append"><i class="fa fa-plus"></i> {:__('Append')}</a></dd>
+                <textarea name="row[compjson]" class="form-control hide" cols="30" rows="5">{$row.compjson|htmlentities}</textarea>
+            </dl>
+
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Comptime')}:</label>
+        <div class="col-xs-12 col-sm-5">
+            <input id="c-comptime" data-rule="required" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[comptime]" type="text" value="{:$row.comptime?datetime($row.comptime):''}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Compswitch')}:</label>
+        <div class="col-xs-12 col-sm-5">
+<!--            <input id="c-compswitch" data-rule="required" class="form-control" name="row[compswitch]" type="number" value="{$row.compswitch|htmlentities}">-->
+            {:build_radios('row[compswitch]', ['1'=>__('Normal'), '0'=>'禁用'], $row['compswitch'])}
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-5">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

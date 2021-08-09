@@ -1,0 +1,28 @@
+---------------------------------------------------------------
+[ 2020-07-13T00:16:19+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/month
+[运行时间：0.299662s] [吞吐率：3.34req/s] [内存消耗：4,820.41kb] [文件加载：138]
+[ error ] [8]未定义数组下标: 2[F:\WebWork\car\application\api\controller\Cardlog.php:376]
+---------------------------------------------------------------
+[ 2020-07-13T00:17:10+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/month
+[运行时间：0.211700s] [吞吐率：4.72req/s] [内存消耗：4,820.41kb] [文件加载：138]
+[ error ] [8]未定义数组下标: 2[F:\WebWork\car\application\api\controller\Cardlog.php:377]
+---------------------------------------------------------------
+[ 2020-07-13T00:19:42+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/month
+[运行时间：0.168309s] [吞吐率：5.94req/s] [内存消耗：3,044.63kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected '('[F:\WebWork\car\application\api\controller\Cardlog.php:385]
+---------------------------------------------------------------
+[ 2020-07-13T00:21:40+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/month
+[运行时间：0.143210s] [吞吐率：6.98req/s] [内存消耗：3,044.63kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected 'else' (T_ELSE)[F:\WebWork\car\application\api\controller\Cardlog.php:429]
+---------------------------------------------------------------
+[ 2020-07-13T00:24:28+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/month
+[运行时间：1.011561s] [吞吐率：0.99req/s] [内存消耗：4,821.02kb] [文件加载：138]
+[ error ] [8]未定义数组下标: 2[F:\WebWork\car\application\api\controller\Cardlog.php:376]
+---------------------------------------------------------------
+[ 2020-07-13T00:49:42+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/month
+[运行时间：0.206942s] [吞吐率：4.83req/s] [内存消耗：4,812.80kb] [文件加载：138]
+[ error ] [8]未定义数组索引: card_id[F:\WebWork\car\application\api\controller\Cardlog.php:381]
+---------------------------------------------------------------
+[ 2020-07-13T00:49:51+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/month
+[运行时间：0.318225s] [吞吐率：3.14req/s] [内存消耗：4,820.90kb] [文件加载：139]
+[ error ] [8]未定义变量: cardname[F:\WebWork\car\application\api\controller\Cardlog.php:397]

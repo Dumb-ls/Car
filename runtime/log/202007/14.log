@@ -1,0 +1,52 @@
+---------------------------------------------------------------
+[ 2020-07-14T13:15:39+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/year
+[运行时间：0.251972s] [吞吐率：3.97req/s] [内存消耗：4,722.07kb] [文件加载：138]
+[ error ] [8]未定义数组索引: comp_id[F:\WebWork\car\application\api\controller\Cardlog.php:263]
+---------------------------------------------------------------
+[ 2020-07-14T13:18:33+08:00 ] 127.0.0.1 POST car.ls/index.php/api/company/getComp
+[运行时间：0.136156s] [吞吐率：7.34req/s] [内存消耗：4,645.26kb] [文件加载：137]
+[ error ] [8]未定义数组索引: compname[F:\WebWork\car\application\api\controller\Company.php:31]
+---------------------------------------------------------------
+[ 2020-07-14T13:25:43+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/year
+[运行时间：0.424778s] [吞吐率：2.35req/s] [内存消耗：4,826.09kb] [文件加载：138]
+[ error ] [0]类型错误: Too few arguments to function dump(), 0 passed in F:\WebWork\car\application\api\controller\Cardlog.php on line 323 and at least 1 expected[F:\WebWork\car\thinkphp\helper.php:265]
+---------------------------------------------------------------
+[ 2020-07-14T13:26:04+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/year
+[运行时间：0.319340s] [吞吐率：3.13req/s] [内存消耗：4,826.09kb] [文件加载：138]
+[ error ] [0]类型错误: Too few arguments to function dump(), 0 passed in F:\WebWork\car\application\api\controller\Cardlog.php on line 323 and at least 1 expected[F:\WebWork\car\thinkphp\helper.php:265]
+---------------------------------------------------------------
+[ 2020-07-14T13:27:24+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/year
+[运行时间：0.305769s] [吞吐率：3.27req/s] [内存消耗：4,826.09kb] [文件加载：138]
+[ error ] [0]类型错误: Too few arguments to function dump(), 0 passed in F:\WebWork\car\application\api\controller\Cardlog.php on line 323 and at least 1 expected[F:\WebWork\car\thinkphp\helper.php:265]
+---------------------------------------------------------------
+[ 2020-07-14T13:30:50+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/year
+[运行时间：0.334007s] [吞吐率：2.99req/s] [内存消耗：4,817.77kb] [文件加载：137]
+[ error ] [0]致命错误: Call to a member function toArray() on array[F:\WebWork\car\application\api\controller\Cardlog.php:285]
+---------------------------------------------------------------
+[ 2020-07-14T13:43:11+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/year
+[运行时间：0.586306s] [吞吐率：1.71req/s] [内存消耗：4,822.09kb] [文件加载：138]
+[ error ] [0]variable type error： array[F:\WebWork\car\thinkphp\library\think\Response.php:316]
+---------------------------------------------------------------
+[ 2020-07-14T14:02:53+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/year
+[运行时间：0.449415s] [吞吐率：2.23req/s] [内存消耗：4,819.92kb] [文件加载：137]
+[ error ] [0]variable type error： array[F:\WebWork\car\thinkphp\library\think\Response.php:316]
+---------------------------------------------------------------
+[ 2020-07-14T14:41:03+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/year
+[运行时间：0.294900s] [吞吐率：3.39req/s] [内存消耗：4,722.12kb] [文件加载：138]
+[ error ] [2]cal_days_in_month(): invalid date[F:\WebWork\car\application\api\controller\Cardlog.php:280]
+---------------------------------------------------------------
+[ 2020-07-14T15:10:44+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/year
+[运行时间：0.418764s] [吞吐率：2.39req/s] [内存消耗：4,798.59kb] [文件加载：139]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'car.fa_name' doesn't exist[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-14T15:11:03+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/year
+[运行时间：0.297599s] [吞吐率：3.36req/s] [内存消耗：4,829.93kb] [文件加载：139]
+[ error ] [8]未定义数组索引: name[F:\WebWork\car\application\api\controller\Cardlog.php:308]
+---------------------------------------------------------------
+[ 2020-07-14T15:11:20+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/year
+[运行时间：0.200611s] [吞吐率：4.98req/s] [内存消耗：4,829.93kb] [文件加载：139]
+[ error ] [8]未定义数组索引: name[F:\WebWork\car\application\api\controller\Cardlog.php:314]
+---------------------------------------------------------------
+[ 2020-07-14T23:40:47+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byMonth
+[运行时间：0.323007s] [吞吐率：3.10req/s] [内存消耗：3,044.77kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ')'[F:\WebWork\car\application\api\controller\Cardlog.php:386]

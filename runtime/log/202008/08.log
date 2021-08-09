@@ -1,0 +1,32 @@
+---------------------------------------------------------------
+[ 2020-08-08T15:03:03+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/test
+[运行时间：0.454944s] [吞吐率：2.20req/s] [内存消耗：4,990.73kb] [文件加载：142]
+[ error ] [2]call_user_func_array() expects parameter 1 to be a valid callback, class 'think\Collection' does not have a method 'select'[F:\WebWork\car\thinkphp\library\think\Paginator.php:400]
+---------------------------------------------------------------
+[ 2020-08-08T15:05:40+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/test
+[运行时间：0.273862s] [吞吐率：3.65req/s] [内存消耗：4,887.67kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-08T15:06:20+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/test
+[运行时间：0.154437s] [吞吐率：6.48req/s] [内存消耗：4,885.29kb] [文件加载：139]
+[ error ] [2]Use of undefined constant desc - assumed 'desc' (this will throw an Error in a future version of PHP)[F:\WebWork\car\application\api\controller\Cardlog.php:221]
+---------------------------------------------------------------
+[ 2020-08-08T15:07:41+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/test
+[运行时间：0.143206s] [吞吐率：6.98req/s] [内存消耗：4,883.90kb] [文件加载：138]
+[ error ] [0]类型错误: Too few arguments to function think\db\Query::order(), 0 passed in F:\WebWork\car\application\api\controller\Cardlog.php on line 221 and at least 1 expected[F:\WebWork\car\thinkphp\library\think\db\Query.php:1559]
+---------------------------------------------------------------
+[ 2020-08-08T17:20:23+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/test
+[运行时间：0.246577s] [吞吐率：4.06req/s] [内存消耗：4,892.99kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'time' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-08T17:27:56+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.137469s] [吞吐率：7.27req/s] [内存消耗：4,911.01kb] [文件加载：138]
+[ error ] [0]类型错误: Too few arguments to function think\db\Query::page(), 0 passed in F:\WebWork\car\application\api\controller\Cardlog.php on line 168 and at least 1 expected[F:\WebWork\car\thinkphp\library\think\db\Query.php:1429]
+---------------------------------------------------------------
+[ 2020-08-08T17:35:47+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.297511s] [吞吐率：3.36req/s] [内存消耗：3,044.89kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ')'[F:\WebWork\car\application\api\controller\Cardlog.php:172]
+---------------------------------------------------------------
+[ 2020-08-08T17:43:29+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.195984s] [吞吐率：5.10req/s] [内存消耗：4,922.52kb] [文件加载：141]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]

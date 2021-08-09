@@ -1,0 +1,88 @@
+---------------------------------------------------------------
+[ 2020-07-08T00:05:20+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.356453s] [吞吐率：2.81req/s] [内存消耗：5,317.60kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:06:25+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.097280s] [吞吐率：10.28req/s] [内存消耗：5,322.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:07:32+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.242995s] [吞吐率：4.12req/s] [内存消耗：5,440.20kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:08:46+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.124063s] [吞吐率：8.06req/s] [内存消耗：5,317.61kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:09:49+08:00 ] 127.0.0.1 POST car.ls/a.php/dev/index
+[运行时间：0.087607s] [吞吐率：11.41req/s] [内存消耗：5,307.90kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:12:30+08:00 ] 127.0.0.1 POST car.ls/a.php/card/index
+[运行时间：0.163566s] [吞吐率：6.11req/s] [内存消耗：5,276.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:12:30+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.128054s] [吞吐率：7.81req/s] [内存消耗：5,317.61kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:12:30+08:00 ] 127.0.0.1 POST car.ls/a.php/dev/index
+[运行时间：0.257746s] [吞吐率：3.88req/s] [内存消耗：5,303.16kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:12:46+08:00 ] 127.0.0.1 POST car.ls/a.php/card/index
+[运行时间：0.110488s] [吞吐率：9.05req/s] [内存消耗：5,281.73kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:17:02+08:00 ] 127.0.0.1 POST car.ls/a.php/card/get_type_list
+[运行时间：0.145403s] [吞吐率：6.88req/s] [内存消耗：5,297.27kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deptname' in 'field list'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:17:14+08:00 ] 127.0.0.1 POST car.ls/a.php/card/get_type_list
+[运行时间：0.117036s] [吞吐率：8.54req/s] [内存消耗：5,297.27kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deptname' in 'field list'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:18:21+08:00 ] 127.0.0.1 POST car.ls/a.php/card/get_type_list
+[运行时间：0.135195s] [吞吐率：7.40req/s] [内存消耗：5,297.27kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'deptname' in 'field list'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:22:13+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.132970s] [吞吐率：7.52req/s] [内存消耗：5,317.61kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:22:13+08:00 ] 127.0.0.1 POST car.ls/a.php/dev/index
+[运行时间：0.192850s] [吞吐率：5.19req/s] [内存消耗：5,303.16kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:22:13+08:00 ] 127.0.0.1 POST car.ls/a.php/card/index
+[运行时间：0.232700s] [吞吐率：4.30req/s] [内存消耗：5,296.09kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:22:14+08:00 ] 127.0.0.1 POST car.ls/a.php/card/index
+[运行时间：0.117490s] [吞吐率：8.51req/s] [内存消耗：5,300.84kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:23:24+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.150184s] [吞吐率：6.66req/s] [内存消耗：5,322.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:23:24+08:00 ] 127.0.0.1 POST car.ls/a.php/card/index
+[运行时间：0.190244s] [吞吐率：5.26req/s] [内存消耗：5,300.84kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:23:39+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.140315s] [吞吐率：7.13req/s] [内存消耗：5,322.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:25:07+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/index
+[运行时间：0.184552s] [吞吐率：5.42req/s] [内存消耗：5,322.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:28:36+08:00 ] 127.0.0.1 POST car.ls/a.php/dev/get_type_list
+[运行时间：0.119120s] [吞吐率：8.39req/s] [内存消耗：5,321.60kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'devdnum' in 'field list'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-08T00:28:43+08:00 ] 127.0.0.1 POST car.ls/a.php/dev/get_type_list
+[运行时间：0.117298s] [吞吐率：8.53req/s] [内存消耗：5,321.60kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'devdnum' in 'field list'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]

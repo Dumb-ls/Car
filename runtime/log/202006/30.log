@@ -1,0 +1,48 @@
+---------------------------------------------------------------
+[ 2020-06-30T22:01:59+08:00 ] 42.248.170.64 POST car.zhuohang.tech/a.php/comp/index
+[运行时间：0.117600s] [吞吐率：8.50req/s] [内存消耗：733.22kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[C:\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-06-30T22:02:00+08:00 ] 42.248.170.64 POST car.zhuohang.tech/a.php/comp/index
+[运行时间：0.016620s] [吞吐率：60.17req/s] [内存消耗：731.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[C:\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-06-30T22:02:00+08:00 ] 42.248.170.64 POST car.zhuohang.tech/a.php/comp/index
+[运行时间：0.026709s] [吞吐率：37.44req/s] [内存消耗：731.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[C:\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-06-30T22:03:12+08:00 ] 42.248.170.64 POST car.zhuohang.tech/a.php/comp/index
+[运行时间：0.038848s] [吞吐率：25.74req/s] [内存消耗：731.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[C:\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-06-30T22:03:13+08:00 ] 42.248.170.64 POST car.zhuohang.tech/a.php/comp/index
+[运行时间：0.011643s] [吞吐率：85.89req/s] [内存消耗：731.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[C:\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-06-30T22:09:23+08:00 ] 42.248.170.64 POST car.zhuohang.tech/a.php/comp/index
+[运行时间：0.014269s] [吞吐率：70.08req/s] [内存消耗：731.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[C:\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-06-30T22:09:24+08:00 ] 42.248.170.64 POST car.zhuohang.tech/a.php/comp/index
+[运行时间：0.011940s] [吞吐率：83.75req/s] [内存消耗：731.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[C:\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-06-30T22:09:25+08:00 ] 42.248.170.64 POST car.zhuohang.tech/a.php/comp/index
+[运行时间：0.044119s] [吞吐率：22.67req/s] [内存消耗：731.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[C:\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-06-30T22:09:25+08:00 ] 42.248.170.64 POST car.zhuohang.tech/a.php/comp/index
+[运行时间：0.027775s] [吞吐率：36.00req/s] [内存消耗：731.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[C:\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-06-30T22:09:25+08:00 ] 42.248.170.64 POST car.zhuohang.tech/a.php/dept/index
+[运行时间：0.027412s] [吞吐率：36.48req/s] [内存消耗：729.02kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[C:\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-06-30T22:10:52+08:00 ] 42.248.170.64 POST car.zhuohang.tech/a.php/comp/index
+[运行时间：0.019327s] [吞吐率：51.74req/s] [内存消耗：731.98kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[C:\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-06-30T22:10:53+08:00 ] 42.248.170.64 POST car.zhuohang.tech/a.php/dept/index
+[运行时间：0.012404s] [吞吐率：80.62req/s] [内存消耗：729.02kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'[C:\car\thinkphp\library\think\db\Connection.php:385]

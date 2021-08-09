@@ -1,0 +1,84 @@
+---------------------------------------------------------------
+[ 2020-07-19T12:18:50+08:00 ] 127.0.0.1 POST car.ls/index.php/api/config/getTime
+[运行时间：0.123482s] [吞吐率：8.10req/s] [内存消耗：3,625.44kb] [文件加载：130]
+[ error ] [0]致命错误: Call to undefined method app\api\controller\Config::time()[F:\WebWork\car\application\api\controller\Config.php:50]
+---------------------------------------------------------------
+[ 2020-07-19T12:19:34+08:00 ] 127.0.0.1 POST car.ls/index.php/api/config/getTime
+[运行时间：0.111813s] [吞吐率：8.94req/s] [内存消耗：3,625.45kb] [文件加载：130]
+[ error ] [0]致命错误: Call to undefined method app\api\controller\Config::time()[F:\WebWork\car\application\api\controller\Config.php:50]
+---------------------------------------------------------------
+[ 2020-07-19T12:28:46+08:00 ] 127.0.0.1 POST car.ls/index.php/api/report/download
+[运行时间：0.228372s] [吞吐率：4.38req/s] [内存消耗：4,787.23kb] [文件加载：138]
+[ error ] [8]未定义数组索引: ceratetime[F:\WebWork\car\application\api\controller\Report.php:221]
+---------------------------------------------------------------
+[ 2020-07-19T12:33:50+08:00 ] 127.0.0.1 POST car.ls/index.php/api/report/download
+[运行时间：0.132982s] [吞吐率：7.52req/s] [内存消耗：3,044.55kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected '.'[F:\WebWork\car\application\api\controller\Report.php:223]
+---------------------------------------------------------------
+[ 2020-07-19T12:33:54+08:00 ] 127.0.0.1 POST car.ls/index.php/api/report/download
+[运行时间：0.124990s] [吞吐率：8.00req/s] [内存消耗：4,787.28kb] [文件加载：138]
+[ error ] [2]Illegal string offset 'xiazai'[F:\WebWork\car\application\api\controller\Report.php:233]
+---------------------------------------------------------------
+[ 2020-07-19T17:38:05+08:00 ] 127.0.0.1 POST car.ls/index.php/api/dev/checkDev
+[运行时间：1.937541s] [吞吐率：0.52req/s] [内存消耗：4,774.57kb] [文件加载：139]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'devnum' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-19T17:38:47+08:00 ] 127.0.0.1 POST car.ls/index.php/api/dev/checkDev
+[运行时间：0.131150s] [吞吐率：7.62req/s] [内存消耗：4,774.53kb] [文件加载：139]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'devnum' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-19T19:50:43+08:00 ] 127.0.0.1 GET car.ls/a.php/card/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1595159443154
+[运行时间：0.347160s] [吞吐率：2.88req/s] [内存消耗：5,415.21kb] [文件加载：149]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-19T19:52:13+08:00 ] 127.0.0.1 GET car.ls/a.php/card/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1595159443155
+[运行时间：0.177260s] [吞吐率：5.64req/s] [内存消耗：5,415.21kb] [文件加载：149]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-19T19:52:22+08:00 ] 127.0.0.1 GET car.ls/a.php/card/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1595159541594
+[运行时间：0.272372s] [吞吐率：3.67req/s] [内存消耗：5,415.21kb] [文件加载：149]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-19T19:54:00+08:00 ] 127.0.0.1 GET car.ls/a.php/card/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1595159639299
+[运行时间：0.262244s] [吞吐率：3.81req/s] [内存消耗：5,415.21kb] [文件加载：149]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-19T19:56:38+08:00 ] 127.0.0.1 GET car.ls/a.php/card/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1595159797978
+[运行时间：0.236716s] [吞吐率：4.22req/s] [内存消耗：5,415.21kb] [文件加载：149]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-19T19:56:52+08:00 ] 127.0.0.1 GET car.ls/a.php/card/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1595159811305
+[运行时间：0.222434s] [吞吐率：4.50req/s] [内存消耗：5,415.21kb] [文件加载：149]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-19T19:57:13+08:00 ] 127.0.0.1 GET car.ls/a.php/card/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1595159832621
+[运行时间：0.207802s] [吞吐率：4.81req/s] [内存消耗：5,415.21kb] [文件加载：149]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-19T19:57:36+08:00 ] 127.0.0.1 GET car.ls/a.php/card/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1595159856100
+[运行时间：0.223595s] [吞吐率：4.47req/s] [内存消耗：5,415.21kb] [文件加载：149]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-19T20:19:59+08:00 ] 127.0.0.1 GET car.ls/a.php/dev/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1595161198545
+[运行时间：0.236177s] [吞吐率：4.23req/s] [内存消耗：5,415.43kb] [文件加载：149]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-19T20:24:47+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/index?addtabs=1&sort=id&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1595161486725
+[运行时间：0.182052s] [吞吐率：5.49req/s] [内存消耗：5,401.04kb] [文件加载：150]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'comp_id' in where clause is ambiguous[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-19T21:01:14+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/add?dialog=1
+[运行时间：0.409587s] [吞吐率：2.44req/s] [内存消耗：5,507.91kb] [文件加载：146]
+[ error ] [8]未定义变量: rows[F:\WebWork\car\runtime\temp\5a5a249d967a0fb9a6f163f3156f7542.php:58]
+---------------------------------------------------------------
+[ 2020-07-19T21:01:31+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/add?dialog=1
+[运行时间：0.284344s] [吞吐率：3.52req/s] [内存消耗：5,507.98kb] [文件加载：146]
+[ error ] [8]未定义变量: rows[F:\WebWork\car\runtime\temp\5a5a249d967a0fb9a6f163f3156f7542.php:58]
+---------------------------------------------------------------
+[ 2020-07-19T21:01:40+08:00 ] 127.0.0.1 GET car.ls/a.php/cardlog/add?dialog=1
+[运行时间：0.337038s] [吞吐率：2.97req/s] [内存消耗：5,507.98kb] [文件加载：146]
+[ error ] [8]未定义变量: row[F:\WebWork\car\runtime\temp\5a5a249d967a0fb9a6f163f3156f7542.php:58]
+---------------------------------------------------------------
+[ 2020-07-19T22:28:05+08:00 ] 127.0.0.1 POST car.ls/a.php/cardlog/add?dialog=1
+[运行时间：0.212881s] [吞吐率：4.70req/s] [内存消耗：3,166.02kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected '$result' (T_VARIABLE)[F:\WebWork\car\application\admin\controller\Cardlog.php:123]

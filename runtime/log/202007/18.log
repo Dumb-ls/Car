@@ -1,0 +1,60 @@
+---------------------------------------------------------------
+[ 2020-07-18T12:56:32+08:00 ] 127.0.0.1 POST car.ls/a.php/dept/get_type_list
+[运行时间：0.402266s] [吞吐率：2.49req/s] [内存消耗：5,230.06kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cardswitchi' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-18T12:56:36+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/get_type_list
+[运行时间：0.159609s] [吞吐率：6.27req/s] [内存消耗：5,225.57kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cardswitchi' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-18T12:56:42+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/get_type_list
+[运行时间：0.174917s] [吞吐率：5.72req/s] [内存消耗：5,225.57kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cardswitchi' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-18T12:57:31+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/get_type_list
+[运行时间：0.398892s] [吞吐率：2.51req/s] [内存消耗：5,336.56kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cardswitch' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-18T12:57:33+08:00 ] 127.0.0.1 POST car.ls/a.php/comp/get_type_list
+[运行时间：0.159871s] [吞吐率：6.26req/s] [内存消耗：5,225.57kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cardswitch' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-18T12:57:55+08:00 ] 127.0.0.1 POST car.ls/a.php/dept/get_type_list
+[运行时间：0.162748s] [吞吐率：6.14req/s] [内存消耗：5,230.07kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cardswitchi' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-18T14:33:08+08:00 ] 127.0.0.1 POST car.ls/a.php/card/add?dialog=1
+[运行时间：0.304825s] [吞吐率：3.28req/s] [内存消耗：5,282.79kb] [文件加载：142]
+[ error ] [0]类型错误: Too few arguments to function think\db\Query::field(), 0 passed in F:\WebWork\car\application\admin\controller\Card.php on line 200 and at least 1 expected[F:\WebWork\car\thinkphp\library\think\db\Query.php:827]
+---------------------------------------------------------------
+[ 2020-07-18T14:33:43+08:00 ] 127.0.0.1 POST car.ls/a.php/card/add?dialog=1
+[运行时间：0.161705s] [吞吐率：6.18req/s] [内存消耗：5,282.79kb] [文件加载：142]
+[ error ] [0]类型错误: Too few arguments to function think\db\Query::field(), 0 passed in F:\WebWork\car\application\admin\controller\Card.php on line 200 and at least 1 expected[F:\WebWork\car\thinkphp\library\think\db\Query.php:827]
+---------------------------------------------------------------
+[ 2020-07-18T14:33:49+08:00 ] 127.0.0.1 POST car.ls/a.php/card/add?dialog=1
+[运行时间：0.181487s] [吞吐率：5.51req/s] [内存消耗：5,282.79kb] [文件加载：142]
+[ error ] [0]类型错误: Too few arguments to function think\db\Query::field(), 0 passed in F:\WebWork\car\application\admin\controller\Card.php on line 200 and at least 1 expected[F:\WebWork\car\thinkphp\library\think\db\Query.php:827]
+---------------------------------------------------------------
+[ 2020-07-18T14:56:31+08:00 ] 127.0.0.1 POST car.ls/a.php/card/add?dialog=1
+[运行时间：0.164749s] [吞吐率：6.07req/s] [内存消耗：3,165.79kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected ';', expecting ')'[F:\WebWork\car\application\admin\controller\Card.php:202]
+---------------------------------------------------------------
+[ 2020-07-18T20:06:56+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.383463s] [吞吐率：2.61req/s] [内存消耗：5,356.75kb] [文件加载：143]
+[ error ] [8]未定义数组索引: reptype[F:\WebWork\car\application\admin\controller\Report.php:270]
+---------------------------------------------------------------
+[ 2020-07-18T20:08:50+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.213005s] [吞吐率：4.69req/s] [内存消耗：5,354.63kb] [文件加载：143]
+[ error ] [8]未定义数组下标: 2[F:\WebWork\car\application\admin\controller\Report.php:260]
+---------------------------------------------------------------
+[ 2020-07-18T20:08:53+08:00 ] 127.0.0.1 POST car.ls/a.php/report/add?dialog=1
+[运行时间：0.199216s] [吞吐率：5.02req/s] [内存消耗：5,354.63kb] [文件加载：143]
+[ error ] [8]未定义数组下标: 2[F:\WebWork\car\application\admin\controller\Report.php:260]
+---------------------------------------------------------------
+[ 2020-07-18T20:13:21+08:00 ] 127.0.0.1 POST car.ls/a.php/dev/get_type_list
+[运行时间：0.210924s] [吞吐率：4.74req/s] [内存消耗：5,237.27kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cardswitchi' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-18T20:13:27+08:00 ] 127.0.0.1 POST car.ls/a.php/card/get_type_list
+[运行时间：0.156580s] [吞吐率：6.39req/s] [内存消耗：5,237.08kb] [文件加载：144]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cardswitchi' in 'where clause'[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]

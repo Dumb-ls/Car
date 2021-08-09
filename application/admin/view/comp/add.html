@@ -1,0 +1,68 @@
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Compname')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-compname" data-rule="required" class="form-control" name="row[compname]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Compuser')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-compuser" data-rule="required" class="form-control" name="row[compuser]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Comppass')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-comppass" data-rule="required" class="form-control" name="row[comppass]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Compaddr')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-compaddr" class="form-control" name="row[compaddr]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Comptel')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-comptel" class="form-control" name="row[comptel]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Compjson')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            
+            <dl class="fieldlist" data-name="row[compjson]">
+                <dd>
+                    <ins>{:__('Key')}</ins>
+                    <ins>{:__('Value')}</ins>
+                </dd>
+                <dd><a href="javascript:;" class="btn btn-sm btn-success btn-append"><i class="fa fa-plus"></i> {:__('Append')}</a></dd>
+                <textarea name="row[compjson]" class="form-control hide" cols="30" rows="5"></textarea>
+            </dl>
+
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Comptime')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-comptime" data-rule="required" class="form-control datetimepicker" data-date-format="YYYY-MM-DD HH:mm:ss" data-use-current="true" name="row[comptime]" type="text" value="{:date('Y-m-d H:i:s')}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Compswitch')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            {:build_radios('row[compswitch]', ['1'=>__('Able'), '0'=>__('Disable')])}
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

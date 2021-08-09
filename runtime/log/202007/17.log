@@ -1,0 +1,56 @@
+---------------------------------------------------------------
+[ 2020-07-17T14:32:48+08:00 ] 127.0.0.1 POST car.ls/index.php//api/cardlog/byDay
+[运行时间：0.465394s] [吞吐率：2.15req/s] [内存消耗：4,781.22kb] [文件加载：138]
+[ error ] [8]未定义数组索引: dev_id[F:\WebWork\car\application\api\controller\Cardlog.php:826]
+---------------------------------------------------------------
+[ 2020-07-17T14:33:23+08:00 ] 127.0.0.1 POST car.ls/index.php//api/cardlog/byDay
+[运行时间：0.210320s] [吞吐率：4.75req/s] [内存消耗：4,781.23kb] [文件加载：138]
+[ error ] [8]未定义数组索引: dev_id[F:\WebWork\car\application\api\controller\Cardlog.php:826]
+---------------------------------------------------------------
+[ 2020-07-17T16:45:25+08:00 ] 127.0.0.1 POST car.ls/index.php//api/cardlog/byCardnum
+[运行时间：0.745926s] [吞吐率：1.34req/s] [内存消耗：3,044.70kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected 'else' (T_ELSE)[F:\WebWork\car\application\api\controller\Cardlog.php:790]
+---------------------------------------------------------------
+[ 2020-07-17T16:46:40+08:00 ] 127.0.0.1 POST car.ls/index.php//api/cardlog/byCardnum
+[运行时间：0.542959s] [吞吐率：1.84req/s] [内存消耗：4,885.40kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1140 In aggregated query without GROUP BY, expression #1 of SELECT list contains nonaggregated column 'car.fa_cardlog.cardnum'; this is incompatible with sql_mode=only_full_group_by[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-07-17T16:52:16+08:00 ] 127.0.0.1 POST car.ls/index.php//api/cardlog/byCardnum
+[运行时间：0.276892s] [吞吐率：3.61req/s] [内存消耗：4,879.23kb] [文件加载：138]
+[ error ] [0]致命错误: Call to a member function values() on array[F:\WebWork\car\application\api\controller\Cardlog.php:772]
+---------------------------------------------------------------
+[ 2020-07-17T17:18:35+08:00 ] 127.0.0.1 POST car.ls/index.php//api/cardlog/byDay
+[运行时间：0.239211s] [吞吐率：4.18req/s] [内存消耗：4,879.77kb] [文件加载：139]
+[ error ] [8]A non well formed numeric value encountered[F:\WebWork\car\application\api\controller\Cardlog.php:844]
+---------------------------------------------------------------
+[ 2020-07-17T17:32:55+08:00 ] 127.0.0.1 POST car.ls/index.php//api/cardlog/byDay
+[运行时间：0.175816s] [吞吐率：5.69req/s] [内存消耗：4,784.57kb] [文件加载：138]
+[ error ] [8]未定义数组索引: comp_id[F:\WebWork\car\application\api\controller\Cardlog.php:814]
+---------------------------------------------------------------
+[ 2020-07-17T18:48:00+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.779983s] [吞吐率：1.28req/s] [内存消耗：3,045.27kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected 'else' (T_ELSE)[F:\WebWork\car\application\api\controller\Cardlog.php:857]
+---------------------------------------------------------------
+[ 2020-07-17T19:18:58+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.937619s] [吞吐率：1.07req/s] [内存消耗：4,784.65kb] [文件加载：138]
+[ error ] [8]未定义数组索引: comp_id[F:\WebWork\car\application\api\controller\Cardlog.php:815]
+---------------------------------------------------------------
+[ 2020-07-17T19:19:52+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.898454s] [吞吐率：1.11req/s] [内存消耗：4,884.16kb] [文件加载：139]
+[ error ] [2]array_push() expects at least 1 parameter, 0 given[F:\WebWork\car\application\api\controller\Cardlog.php:847]
+---------------------------------------------------------------
+[ 2020-07-17T19:23:13+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/byDay
+[运行时间：0.423280s] [吞吐率：2.36req/s] [内存消耗：4,884.19kb] [文件加载：139]
+[ error ] [8]A non well formed numeric value encountered[F:\WebWork\car\application\api\controller\Cardlog.php:844]
+---------------------------------------------------------------
+[ 2020-07-17T22:48:06+08:00 ] 127.0.0.1 POST car.ls/index.php//api/cardlog/byDay
+[运行时间：0.322112s] [吞吐率：3.10req/s] [内存消耗：4,884.01kb] [文件加载：139]
+[ error ] [2]array_push() expects parameter 1 to be array, null given[F:\WebWork\car\application\api\controller\Cardlog.php:858]
+---------------------------------------------------------------
+[ 2020-07-17T22:49:00+08:00 ] 127.0.0.1 POST car.ls/index.php//api/cardlog/byDay
+[运行时间：0.166225s] [吞吐率：6.02req/s] [内存消耗：4,883.93kb] [文件加载：139]
+[ error ] [8]未定义数组下标: 2[F:\WebWork\car\application\api\controller\Cardlog.php:854]
+---------------------------------------------------------------
+[ 2020-07-17T23:11:13+08:00 ] 127.0.0.1 POST car.ls/index.php//api/cardlog/byDay
+[运行时间：0.196895s] [吞吐率：5.08req/s] [内存消耗：4,884.59kb] [文件加载：139]
+[ error ] [2]key() expects parameter 1 to be array, int given[F:\WebWork\car\application\api\controller\Cardlog.php:854]

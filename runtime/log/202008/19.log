@@ -1,0 +1,68 @@
+---------------------------------------------------------------
+[ 2020-08-19T11:41:43+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.229689s] [吞吐率：4.35req/s] [内存消耗：614.84kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'car.fa_logview' doesn't exist[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-19T11:42:04+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.031695s] [吞吐率：31.55req/s] [内存消耗：549.24kb] [文件加载：140]
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'car.fa_logview' doesn't exist[F:\WebWork\car\thinkphp\library\think\db\Connection.php:385]
+---------------------------------------------------------------
+[ 2020-08-19T11:42:57+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.036465s] [吞吐率：27.42req/s] [内存消耗：637.08kb] [文件加载：139]
+[ error ] [8]未定义变量: datas[F:\WebWork\car\application\api\controller\Cardlog.php:208]
+---------------------------------------------------------------
+[ 2020-08-19T11:43:41+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.040227s] [吞吐率：24.86req/s] [内存消耗：571.91kb] [文件加载：139]
+[ error ] [8]未定义变量: datas[F:\WebWork\car\application\api\controller\Cardlog.php:208]
+---------------------------------------------------------------
+[ 2020-08-19T11:43:44+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.034015s] [吞吐率：29.40req/s] [内存消耗：571.91kb] [文件加载：139]
+[ error ] [8]未定义变量: datas[F:\WebWork\car\application\api\controller\Cardlog.php:208]
+---------------------------------------------------------------
+[ 2020-08-19T11:43:45+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.015775s] [吞吐率：63.39req/s] [内存消耗：571.91kb] [文件加载：139]
+[ error ] [8]未定义变量: datas[F:\WebWork\car\application\api\controller\Cardlog.php:208]
+---------------------------------------------------------------
+[ 2020-08-19T11:43:46+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.030440s] [吞吐率：32.85req/s] [内存消耗：571.91kb] [文件加载：139]
+[ error ] [8]未定义变量: datas[F:\WebWork\car\application\api\controller\Cardlog.php:208]
+---------------------------------------------------------------
+[ 2020-08-19T11:43:47+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.020825s] [吞吐率：48.02req/s] [内存消耗：571.91kb] [文件加载：139]
+[ error ] [8]未定义变量: datas[F:\WebWork\car\application\api\controller\Cardlog.php:208]
+---------------------------------------------------------------
+[ 2020-08-19T11:43:47+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.020784s] [吞吐率：48.11req/s] [内存消耗：571.91kb] [文件加载：139]
+[ error ] [8]未定义变量: datas[F:\WebWork\car\application\api\controller\Cardlog.php:208]
+---------------------------------------------------------------
+[ 2020-08-19T11:43:48+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.034023s] [吞吐率：29.39req/s] [内存消耗：571.91kb] [文件加载：139]
+[ error ] [8]未定义变量: datas[F:\WebWork\car\application\api\controller\Cardlog.php:208]
+---------------------------------------------------------------
+[ 2020-08-19T11:43:49+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.024373s] [吞吐率：41.03req/s] [内存消耗：571.91kb] [文件加载：139]
+[ error ] [8]未定义变量: datas[F:\WebWork\car\application\api\controller\Cardlog.php:208]
+---------------------------------------------------------------
+[ 2020-08-19T11:43:50+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.023991s] [吞吐率：41.68req/s] [内存消耗：571.91kb] [文件加载：139]
+[ error ] [8]未定义变量: datas[F:\WebWork\car\application\api\controller\Cardlog.php:208]
+---------------------------------------------------------------
+[ 2020-08-19T11:44:37+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.072792s] [吞吐率：13.74req/s] [内存消耗：636.98kb] [文件加载：139]
+[ error ] [8]未定义变量: datas[F:\WebWork\car\application\api\controller\Cardlog.php:205]
+---------------------------------------------------------------
+[ 2020-08-19T12:02:18+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.038167s] [吞吐率：26.20req/s] [内存消耗：643.09kb] [文件加载：139]
+[ error ] [8]未定义数组索引: page[F:\WebWork\car\application\api\controller\Cardlog.php:183]
+---------------------------------------------------------------
+[ 2020-08-19T12:02:33+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.017303s] [吞吐率：57.79req/s] [内存消耗：641.65kb] [文件加载：139]
+[ error ] [8]未定义数组索引: page[F:\WebWork\car\application\api\controller\Cardlog.php:183]
+---------------------------------------------------------------
+[ 2020-08-19T12:02:51+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.034044s] [吞吐率：29.37req/s] [内存消耗：641.65kb] [文件加载：139]
+[ error ] [8]未定义数组索引: page[F:\WebWork\car\application\api\controller\Cardlog.php:183]
+---------------------------------------------------------------
+[ 2020-08-19T12:02:52+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/getLog
+[运行时间：0.016911s] [吞吐率：59.13req/s] [内存消耗：641.65kb] [文件加载：139]
+[ error ] [8]未定义数组索引: page[F:\WebWork\car\application\api\controller\Cardlog.php:183]

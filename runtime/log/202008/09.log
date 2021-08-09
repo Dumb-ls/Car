@@ -1,0 +1,8 @@
+---------------------------------------------------------------
+[ 2020-08-09T19:33:45+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/test
+[运行时间：0.533131s] [吞吐率：1.88req/s] [内存消耗：4,999.55kb] [文件加载：142]
+[ error ] [2]call_user_func_array() expects parameter 1 to be a valid callback, class 'think\Collection' does not have a method 'order'[F:\WebWork\car\thinkphp\library\think\Paginator.php:400]
+---------------------------------------------------------------
+[ 2020-08-09T23:48:15+08:00 ] 127.0.0.1 POST car.ls/index.php/api/cardlog/test
+[运行时间：0.494057s] [吞吐率：2.02req/s] [内存消耗：4,998.48kb] [文件加载：141]
+[ error ] [0]致命错误: Call to undefined function app\api\controller\celi()[F:\WebWork\car\application\api\controller\Cardlog.php:277]

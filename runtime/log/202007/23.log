@@ -1,0 +1,8 @@
+---------------------------------------------------------------
+[ 2020-07-23T22:22:54+08:00 ] 127.0.0.1 POST car.ls/index.php/api/card/stopCard
+[运行时间：0.293656s] [吞吐率：3.41req/s] [内存消耗：3,044.58kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected ')', expecting ']'[F:\WebWork\car\application\api\controller\Card.php:228]
+---------------------------------------------------------------
+[ 2020-07-23T22:32:51+08:00 ] 127.0.0.1 POST car.ls/index.php/api/card/changeCardnum
+[运行时间：0.276855s] [吞吐率：3.61req/s] [内存消耗：4,764.87kb] [文件加载：139]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'comp_id' cannot be null[F:\WebWork\car\thinkphp\library\think\db\Connection.php:453]

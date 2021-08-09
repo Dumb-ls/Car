@@ -1,0 +1,94 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Dev_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-dev_id" data-rule="required" data-source="dev/get_type_list" class="form-control selectpage" name="row[dev_id]" type="text" value="{$row.dev_id|htmlentities}" data-field="devnum">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Devnum')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-devnum" class="form-control" name="row[devnum]" type="text" value="{$row.devnum|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Logdt')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-logdt" class="form-control" name="row[logdt]" type="text" value="{:$row.logdt?datetime($row.logdt):''}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Card_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-card_id" data-rule="required" data-source="card/get_type_list" class="form-control selectpage" name="row[card_id]" type="text" value="{$row.card_id|htmlentities}" data-field="cardnum">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Cardnum')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-cardnum" class="form-control" name="row[cardnum]" type="text" value="{$row.cardnum|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Carpthoto')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-carpthoto" class="form-control" name="row[carpthoto]" type="text" value="{$row.carpthoto|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Comp_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-comp_id" data-rule="required" data-source="comp/get_type_list" class="form-control selectpage" name="row[comp_id]" type="text" value="{$row.comp_id|htmlentities}" data-field="compname">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Dept_id')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-dept_id" data-rule="required" data-source="dept/get_type_list" class="form-control selectpage" name="row[dept_id]" type="text" value="{$row.dept_id|htmlentities}" data-field="deptname">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Cardjson')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            
+            <dl class="fieldlist" data-name="row[cardjson]">
+                <dd>
+                    <ins>{:__('Key')}</ins>
+                    <ins>{:__('Value')}</ins>
+                </dd>
+                <dd><a href="javascript:;" class="btn btn-sm btn-success btn-append"><i class="fa fa-plus"></i> {:__('Append')}</a></dd>
+                <textarea name="row[cardjson]" class="form-control hide" cols="30" rows="5">{$row.cardjson|htmlentities}</textarea>
+            </dl>
+
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Logstat')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-logstat" class="form-control" name="row[logstat]" type="text" value="{$row.logstat|htmlentities}">
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Uqnum')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-uqnum" class="form-control" name="row[uqnum]" type="text" value="{$row.uqnum|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Logswitch')}:</label>
+        <div class="col-xs-12 col-sm-8">
+<!--            <input id="c-logswitch" data-rule="required" class="form-control" name="row[logswitch]" type="number" value="{$row.logswitch|htmlentities}">-->
+            {:build_radios('row[logswitch]', ['1'=>__('Normal'), '0'=>'禁用'], $row['logswitch'])}
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

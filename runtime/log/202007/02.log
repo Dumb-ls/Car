@@ -1,0 +1,76 @@
+---------------------------------------------------------------
+[ 2020-07-02T07:45:02+08:00 ] 127.0.0.1 GET car.ls/index.php/api/config/getConfig
+[运行时间：0.153499s] [吞吐率：6.51req/s] [内存消耗：3,618.88kb] [文件加载：131]
+[ error ] [8]未定义数组索引: sys_name[F:\WebWork\car\application\api\controller\Config.php:22]
+---------------------------------------------------------------
+[ 2020-07-02T07:46:36+08:00 ] 127.0.0.1 GET car.ls/index.php/api/config/getConfig
+[运行时间：0.104857s] [吞吐率：9.54req/s] [内存消耗：3,619.15kb] [文件加载：131]
+[ error ] [8]未定义数组索引: configgroup[F:\WebWork\car\application\api\controller\Config.php:20]
+---------------------------------------------------------------
+[ 2020-07-02T07:47:06+08:00 ] 127.0.0.1 GET car.ls/index.php/api/config/getConfig
+[运行时间：0.116852s] [吞吐率：8.56req/s] [内存消耗：3,619.30kb] [文件加载：131]
+[ error ] [2]key() expects exactly 1 parameter, 0 given[F:\WebWork\car\application\api\controller\Config.php:20]
+---------------------------------------------------------------
+[ 2020-07-02T07:47:22+08:00 ] 127.0.0.1 GET car.ls/index.php/api/config/getConfig
+[运行时间：0.142156s] [吞吐率：7.03req/s] [内存消耗：3,619.45kb] [文件加载：131]
+[ error ] [2]key() expects parameter 1 to be array, int given[F:\WebWork\car\application\api\controller\Config.php:20]
+---------------------------------------------------------------
+[ 2020-07-02T07:47:49+08:00 ] 127.0.0.1 GET car.ls/index.php/api/config/getConfig
+[运行时间：0.166513s] [吞吐率：6.01req/s] [内存消耗：3,619.16kb] [文件加载：131]
+[ error ] [2]key() expects parameter 1 to be array, int given[F:\WebWork\car\application\api\controller\Config.php:21]
+---------------------------------------------------------------
+[ 2020-07-02T07:49:29+08:00 ] 127.0.0.1 GET car.ls/index.php/api/config/getConfig
+[运行时间：0.101136s] [吞吐率：9.89req/s] [内存消耗：3,619.48kb] [文件加载：131]
+[ error ] [2]Use of undefined constant configgroup - assumed 'configgroup' (this will throw an Error in a future version of PHP)[F:\WebWork\car\application\api\controller\Config.php:20]
+---------------------------------------------------------------
+[ 2020-07-02T07:50:28+08:00 ] 127.0.0.1 GET car.ls/index.php/api/config/getConfig
+[运行时间：0.158141s] [吞吐率：6.32req/s] [内存消耗：3,619.48kb] [文件加载：131]
+[ error ] [2]Use of undefined constant configgroup - assumed 'configgroup' (this will throw an Error in a future version of PHP)[F:\WebWork\car\application\api\controller\Config.php:20]
+---------------------------------------------------------------
+[ 2020-07-02T07:51:44+08:00 ] 127.0.0.1 GET car.ls/index.php/api/config/getConfig
+[运行时间：0.115798s] [吞吐率：8.64req/s] [内存消耗：3,619.06kb] [文件加载：131]
+[ error ] [8]未定义数组下标: 0[F:\WebWork\car\application\api\controller\Config.php:20]
+---------------------------------------------------------------
+[ 2020-07-02T10:23:20+08:00 ] 127.0.0.1 POST car.ls/index.php/api/version/updateVersion
+[运行时间：0.380550s] [吞吐率：2.63req/s] [内存消耗：3,799.95kb] [文件加载：132]
+[ error ] [8]未定义变量: e[F:\WebWork\car\application\api\controller\Version.php:42]
+---------------------------------------------------------------
+[ 2020-07-02T10:23:53+08:00 ] 127.0.0.1 POST car.ls/index.php/api/version/updateVersion
+[运行时间：0.185800s] [吞吐率：5.38req/s] [内存消耗：3,795.48kb] [文件加载：131]
+[ error ] [0][F:\WebWork\car\application\api\controller\Version.php:42]
+---------------------------------------------------------------
+[ 2020-07-02T10:30:13+08:00 ] 127.0.0.1 POST car.ls/index.php/api/version/updateVersion
+[运行时间：0.181428s] [吞吐率：5.51req/s] [内存消耗：3,044.77kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected ')', expecting ']'[F:\WebWork\car\application\api\controller\Version.php:40]
+---------------------------------------------------------------
+[ 2020-07-02T10:34:42+08:00 ] 127.0.0.1 POST car.ls/index.php/api/version/updateVersion
+[运行时间：0.201905s] [吞吐率：4.95req/s] [内存消耗：3,044.90kb] [文件加载：124]
+[ error ] [0]语法解析错误: syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)[F:\WebWork\car\application\api\controller\Version.php:79]
+---------------------------------------------------------------
+[ 2020-07-02T10:49:47+08:00 ] 127.0.0.1 POST car.ls/index.php/api/version/updateVersion
+[运行时间：0.206926s] [吞吐率：4.83req/s] [内存消耗：4,747.72kb] [文件加载：137]
+[ error ] [0]数据表字段不存在:[weight][F:\WebWork\car\thinkphp\library\think\db\Builder.php:115]
+---------------------------------------------------------------
+[ 2020-07-02T10:58:35+08:00 ] 127.0.0.1 POST car.ls/index.php/api/version/updateVersion/api/version/updateVersion
+[运行时间：0.127355s] [吞吐率：7.85req/s] [内存消耗：4,649.42kb] [文件加载：138]
+[ error ] [8]未定义数组索引: oldversion[F:\WebWork\car\application\api\controller\Version.php:59]
+---------------------------------------------------------------
+[ 2020-07-02T16:37:20+08:00 ] 127.0.0.1 POST car.ls/index.php/api/runlog/writeLog
+[运行时间：0.393393s] [吞吐率：2.54req/s] [内存消耗：3,791.05kb] [文件加载：132]
+[ error ] [2]preg_match(): No ending delimiter '^' found[F:\WebWork\car\application\api\validate\WriteLog.php:48]
+---------------------------------------------------------------
+[ 2020-07-02T16:37:59+08:00 ] 127.0.0.1 POST car.ls/index.php/api/runlog/writeLog
+[运行时间：0.191055s] [吞吐率：5.23req/s] [内存消耗：3,791.05kb] [文件加载：132]
+[ error ] [2]preg_match(): No ending delimiter '/' found[F:\WebWork\car\application\api\validate\WriteLog.php:48]
+---------------------------------------------------------------
+[ 2020-07-02T16:38:14+08:00 ] 127.0.0.1 POST car.ls/index.php/api/runlog/writeLog
+[运行时间：0.172824s] [吞吐率：5.79req/s] [内存消耗：3,791.05kb] [文件加载：132]
+[ error ] [2]preg_match(): No ending delimiter '/' found[F:\WebWork\car\application\api\validate\WriteLog.php:48]
+---------------------------------------------------------------
+[ 2020-07-02T16:38:23+08:00 ] 127.0.0.1 POST car.ls/index.php/api/runlog/writeLog
+[运行时间：0.186494s] [吞吐率：5.36req/s] [内存消耗：3,791.05kb] [文件加载：132]
+[ error ] [2]preg_match(): No ending delimiter '^' found[F:\WebWork\car\application\api\validate\WriteLog.php:48]
+---------------------------------------------------------------
+[ 2020-07-02T22:20:45+08:00 ] 127.0.0.1 POST car.ls/index.php/api/card/addCard
+[运行时间：0.449926s] [吞吐率：2.22req/s] [内存消耗：3,816.46kb] [文件加载：132]
+[ error ] [0]致命错误: Call to undefined method app\api\validate\AddCard::batch()[F:\WebWork\car\application\api\controller\Card.php:39]
